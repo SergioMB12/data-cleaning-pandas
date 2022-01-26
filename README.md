@@ -14,28 +14,32 @@ Los tiburones tienen fama de grandes depredadores, en especial los tiburones bla
 
 -Los datos sobre ataques son descargados de la web [Kaggle](https://www.kaggle.com/).En concreto nos descargamos el csv attacks.
 
--La base de datos presenta inumerables datos, pero no todos de calidad.Tras un proceso de limpieza.Con procesos como eliminación de valores NaN,filtrado de columnas, conversión de datos, creación de nuevas columnas y otros procesos explicados en el archivo [clean.ipynb].
+-La base de datos presenta inumerables datos, pero no todos de calidad.Tras un proceso de limpieza.Con procesos como eliminación de valores NaN,filtrado de columnas, conversión de datos, creación de nuevas columnas y otros procesos explicados en el archivo [clean.ipynb](https://github.com/SergioMB12/data-cleaning-pandas/blob/main/work/clean.ipynb).
 
--Tras este proceso obtenemos el el archivo [shrak1_limpio.csv] con nuestros datos limpios y columnas de interes para el estudio.
+-Tras este proceso obtenemos el el archivo [shrak_limpio.csv](https://github.com/SergioMB12/data-cleaning-pandas/blob/main/work/shark_limpio.csv) con nuestros datos limpios y columnas de interes para el estudio.
 
 ## 2- Visualización de datos y conclusiones:
 
--En esta parte del proyecto con nuestros datos ya limpios antes mencionados.Comienzo a realizar diversos graficos graficos mediante los cuales explico mis conclusiones y la informacíon que me aportan los datos.Todo esto se encuentra en el archivo [analysis.ipynb]
+-En esta parte del proyecto con nuestros datos ya limpios antes mencionados.Comienzo a realizar diversos graficos graficos mediante los cuales explico mis conclusiones y la informacíon que me aportan los datos.Todo esto se encuentra en el archivo [analysis.ipynb](https://github.com/SergioMB12/data-cleaning-pandas/blob/main/work/analysis.ipynb)
 
 ## 3 -Conclusiones:
 
-Tal y como hemos visto en el apartado anterior.Los graficos y los datos no demuestran que los tiburones sean grandes asesinos.
+Tal y como hemos visto en el apartado anterior.Los graficos y los datos no demuestran que los tiburones sean grandes asesinos de personas.Más bien muestran como estos atacan como respuesta una excesiva presencia de humanos en sus habitats
 
 ## Tecnología usada
 
 
-[python]
+[python](https://docs.python.org/3/)
 
-[pandas]
+[pandas](https://pandas.pydata.org/)
 
-[numpy]
+[numpy](https://numpy.org/)
 
-[regex]
+[regex](https://docs.microsoft.com/es-es/dotnet/api/system.text.regularexpressions.regex?view=net-6.0)
+
+[matplotlit](https://matplotlib.org/)
+
+[seaborn](https://seaborn.pydata.org/)
 
 
 
