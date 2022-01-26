@@ -18,11 +18,19 @@ Los tiburones tienen fama de grandes depredadores, en especial los tiburones bla
 
 -Tras este proceso obtenemos el el archivo [shrak_limpio.csv](https://github.com/SergioMB12/data-cleaning-pandas/blob/main/work/shark_limpio.csv) con nuestros datos limpios y columnas de interes para el estudio.
 
-## 2- Visualización de datos y conclusiones:
+## 2- Hipotesis
+
+H1 - ¿Son los tiburones unos asesinos de humanos por gusto?
+
+H2 - ¿Atacan para comernos los tiburones?
+
+H3 - ¿Es realmente el tiburon blanco mucho mas feroz que el resto?
+
+## 3- Visualización de datos y conclusiones:
 
 -En esta parte del proyecto con nuestros datos ya limpios antes mencionados.Comienzo a realizar diversos graficos graficos mediante los cuales explico mis conclusiones y la informacíon que me aportan los datos.Todo esto se encuentra en el archivo [analysis.ipynb](https://github.com/SergioMB12/data-cleaning-pandas/blob/main/work/analysis.ipynb)
 
-## 3 -Conclusiones:
+## 4 -Conclusiones:
 
 Tal y como hemos visto en el apartado anterior.Los graficos y los datos no demuestran que los tiburones sean grandes asesinos de personas.Más bien muestran como estos atacan como respuesta una excesiva presencia de humanos en sus habitats.Tampoco el tiburón blanco es un super asesino como en ocasiones se ha dicho.No ataca mucho más que el resto de tiburones, ni es mucho más letal.
 
