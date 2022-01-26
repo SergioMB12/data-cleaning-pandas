@@ -24,7 +24,11 @@ Los tiburones tienen fama de grandes depredadores, en especial los tiburones bla
 
 ## 3 -Conclusiones:
 
-Tal y como hemos visto en el apartado anterior.Los graficos y los datos no demuestran que los tiburones sean grandes asesinos de personas.Más bien muestran como estos atacan como respuesta una excesiva presencia de humanos en sus habitats
+Tal y como hemos visto en el apartado anterior.Los graficos y los datos no demuestran que los tiburones sean grandes asesinos de personas.Más bien muestran como estos atacan como respuesta una excesiva presencia de humanos en sus habitats.Tampoco el tiburón blanco es un super asesino como en ocasiones se ha dicho.No ataca mucho más que el resto de tiburones, ni es mucho más letal.
+
+En definitiva, aprendamos a vivir con los animales a quienes les invademos el habitat en vez de calificarlos de asesinos.
+
+<a href="https://www.gifsanimados.org/cat-tiburones-516.htm"><img src="https://www.gifsanimados.org/data/media/516/tiburon-imagen-animada-0074.gif" border="0" alt="tiburon-imagen-animada-0074" /></a>
 
 ## Tecnología usada
 
