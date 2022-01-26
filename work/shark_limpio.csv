@@ -1,0 +1,2399 @@
+Year,Type,Country,Activity,Sex,Fatal,Sharks,Month
+2018,BOAT,USA,Paddling,Female,NO,White shark,jun
+2018,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jun
+2018,PROVOKED,MEXICO,Free diving,Male,NO,Other sharks,jun
+2018,UNPROVOKED,BRAZIL,Swimming,Male,YES,Other sharks,jun
+2018,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,may
+2018,UNPROVOKED,USA,Walking,Male,NO,Other sharks,may
+2018,PROVOKED,AUSTRALIA,Feeding sharks,Male,NO,Other sharks,may
+2018,INVALID,ENGLAND,Fishing,Male,NO,Other sharks,may
+2018,DKNOW,AUSTRALIA,Surfing,Male,NO,Other sharks,may
+2018,UNPROVOKED,COSTA RICA,Scuba diving,Male,NO,Other sharks,apr
+2018,DKNOW,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+2018,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+2018,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,apr
+2018,UNPROVOKED,MALDIVES,Fishing,Male,NO,Other sharks,apr
+2018,UNPROVOKED,SOUTH AFRICA,Paddle-skiing,Male,NO,White shark,apr
+2018,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,apr
+2018,UNPROVOKED,THAILAND,Swimming,Male,NO,Other sharks,apr
+2018,UNPROVOKED,BAHAMAS,Surfing,Male,NO,Other sharks,apr
+2018,INVALID,BRAZIL,Fishing,Male,NO,Other sharks,apr
+2018,UNPROVOKED,BAHAMAS,Swimming,Male,NO,Other sharks,apr
+2018,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,apr
+2018,UNPROVOKED,USA,Stand-Up Paddleboarding,Male,NO,Other sharks,mar
+2018,UNPROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,mar
+2018,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,mar
+2018,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2018,UNPROVOKED,SOUTH AFRICA,Scuba Diving,Male,NO,Other sharks,feb
+2018,UNPROVOKED,AUSTRALIA,Swimming,Female,NO,White shark,feb
+2018,UNPROVOKED,AUSTRALIA,Walking,Male,NO,Other sharks,feb
+2018,INVALID,AUSTRALIA,Swimming,Female,NO,Other sharks,feb
+2018,INVALID,BRAZIL,Cleaning fish,Female,NO,Other sharks,feb
+2018,UNPROVOKED,ECUADOR,Snorkeling,Male,NO,Other sharks,feb
+2018,INVALID,AUSTRALIA,Spearfishing,Male,NO,Other sharks,feb
+2018,UNPROVOKED,NEW CALEDONIA,Spearfishing,Male,NO,Other sharks,jan
+2018,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,jan
+2018,UNPROVOKED,AUSTRALIA,Free diving,Male,NO,White shark,jan
+2018,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,jan
+2018,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+2017,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,dec
+2017,PROVOKED,MALAYSIA,Fishing / Wading,Male,NO,Other sharks,dec
+2017,UNPROVOKED,BAHAMAS,Snorkeling,Female,NO,Other sharks,dec
+2017,UNPROVOKED,COSTA RICA,Scuba Diving,Male,NO,Other sharks,nov
+2017,UNPROVOKED,COSTA RICA,Scuba diving,Female,YES,Other sharks,nov
+2017,UNPROVOKED,USA,Spearfishing,Male,NO,White shark,nov
+2017,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,nov
+2017,UNPROVOKED,CUBA,Night bathing,Male,YES,Other sharks,nov
+2017,UNPROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,oct
+2017,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+2017,UNPROVOKED,AUSTRALIA,Kayaking / Fishing,Female,NO,White shark,oct
+2017,UNPROVOKED,NEW ZEALAND,Kayaking,Male,NO,Other sharks,oct
+2017,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,oct
+2017,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2017,UNPROVOKED,USA,Snorkeling,Female,NO,Other sharks,oct
+2017,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2017,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,sep
+2017,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2017,UNPROVOKED,SPAIN,Body surfing,Male,NO,Other sharks,sep
+2017,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2017,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,sep
+2017,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2017,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,aug
+2017,UNPROVOKED,USA,SUP,Male,NO,White shark,aug
+2017,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+2017,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+2017,UNPROVOKED,EGYPT,Snorkeling,Female,NO,White shark,aug
+2017,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+2017,BOAT,USA,Kayaking / Fishing,Male,NO,White shark,aug
+2017,UNPROVOKED,SPAIN,Swimming,Female,NO,Other sharks,jul
+2017,BOAT,USA,Kayaking,Male,NO,White shark,jul
+2017,UNPROVOKED,USA,SUP,Male,NO,White shark,jul
+2017,UNPROVOKED,USA,Surfing,Male,NO,White shark,jul
+2017,BOAT,USA,Kayaking,Male,NO,White shark,jul
+2017,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2017,PROVOKED,MEXICO,Fishing,Male,NO,Other sharks,jul
+2017,UNPROVOKED,SOUTH AFRICA,Surfing,Female,NO,White shark,jul
+2017,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jun
+2017,UNPROVOKED,REUNION,Body boarding,Male,NO,Other sharks,jun
+2017,UNPROVOKED,AUSTRALIA,Body boarding,Male,NO,White shark,jun
+2017,UNPROVOKED,AUSTRALIA,Surfing,Female,NO,Other sharks,jun
+2017,UNPROVOKED,UNITED KINGDOM,Surfing ,Male,NO,Other sharks,jun
+2017,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,jun
+2017,UNPROVOKED,BAHAMAS,Snorkeling,Female,NO,Other sharks,jun
+2017,PROVOKED,USA,Touching a shark,Female,NO,Other sharks,may
+2017,UNPROVOKED,USA,Feeding sharks,Male,NO,Other sharks,may
+2017,PROVOKED,AUSTRALIA,Attempting to lasso a shark,Male,NO,Other sharks,may
+2017,UNPROVOKED,AUSTRALIA,Surfing,Female,YES,White shark,apr
+2017,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2017,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,apr
+2017,BOAT,USA,Kayaking,Male,NO,White shark,mar
+2017,UNPROVOKED,PHILIPPINES,Spearfishing,Male,NO,Other sharks,mar
+2017,UNPROVOKED,BAHAMAS,Washing hands,Male,NO,Other sharks,mar
+2017,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,feb
+2017,PROVOKED,BRAZIL,Grabbing shark for a selfie,Female,NO,Other sharks,feb
+2017,BOAT,SOUTH AFRICA,Kayak fishing,Male,NO,Other sharks,feb
+2017,UNPROVOKED,BAHAMAS,Scuba Diving,Male,NO,Other sharks,feb
+2017,UNPROVOKED,AUSTRALIA,Scuba Diving,Male,NO,Other sharks,jan
+2017,UNPROVOKED,INDONESIA,Surfing,Male,NO,Other sharks,jan
+2016,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,dec
+2016,UNPROVOKED,SOUTH AFRICA,Surf skiing ,Male,NO,White shark,dec
+2016,PROVOKED,AUSTRALIA,Surf fishing,Male,NO,Other sharks,dec
+2016,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,dec
+2016,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,nov
+2016,UNPROVOKED,USA,Floating,Female,NO,Other sharks,nov
+2016,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2016,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,sep
+2016,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+2016,UNPROVOKED,USA,Wading,Male,NO,Other sharks,sep
+2016,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,sep
+2016,UNPROVOKED,USA,Spearfishing,Male,NO,White shark,sep
+2016,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2016,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,aug
+2016,UNPROVOKED,USA,SUP Foil boarding,Male,NO,Other sharks,aug
+2016,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2016,UNPROVOKED,SPAIN,Swimming,Male,NO,Other sharks,jul
+2016,BOAT,AUSTRALIA,Kayaking,Male,NO,White shark,jul
+2016,PROVOKED,USA,Lobstering,Male,NO,Other sharks,jul
+2016,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jul
+2016,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jul
+2016,UNPROVOKED,USA,Kite surfing,Male,NO,White shark,jul
+2016,UNPROVOKED,BAHAMAS,Scuba Diving,Male,NO,Other sharks,jul
+2016,UNPROVOKED,SPAIN,Wading,Female,NO,Other sharks,jul
+2016,BOAT,USA,Fishing for squid,Male,NO,White shark,jul
+2016,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+2016,BOAT,USA,Fishing for sharks,Male,NO,White shark,jul
+2016,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jul
+2016,UNPROVOKED,COLUMBIA,Scuba Diving,Male,NO,Other sharks,jun
+2016,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,jun
+2016,UNPROVOKED,USA,Floating,Male,NO,Other sharks,jun
+2016,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2016,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jun
+2016,UNPROVOKED,USA,Floating in tube,Female,NO,Other sharks,jun
+2016,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jun
+2016,UNPROVOKED,AUSTRALIA,Diving,Female,YES,Other sharks,jun
+2016,UNPROVOKED,EGYPT,Swimming,Male,NO,Other sharks,jun
+2016,UNPROVOKED,NEW CALEDONIA,Kite surfing,Male,NO,Other sharks,jun
+2016,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,may
+2016,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2016,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,may
+2016,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2016,PROVOKED,USA,Teasing a shark,Female,NO,Other sharks,may
+2016,PROVOKED,NEW ZEALAND,Fishing,Male,NO,Other sharks,may
+2016,UNPROVOKED,INDONESIA,Surfing,Male,NO,Other sharks,apr
+2016,UNPROVOKED,SOUTH AFRICA,Surf-skiing,Male,NO,White shark,apr
+2016,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,apr
+2016,PROVOKED,FRENCH POLYNESIA,Spearfishing,Male,NO,Other sharks,apr
+2016,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,apr
+2016,UNPROVOKED,NEW CALEDONIA,Walking,Female,YES,Other sharks,apr
+2016,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,apr
+2016,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,mar
+2016,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,mar
+2016,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,feb
+2016,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+2016,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,jan
+2016,BOAT,UNITED ARAB EMIRATES,Fishing,Male,NO,Other sharks,jan
+2016,UNPROVOKED,USA,Paddle boarding,Male,NO,Other sharks,jan
+2016,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+2016,UNPROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,jan
+2016,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jan
+2015,BOAT,SOUTH AFRICA,Kayak Fishing,Male,NO,White shark,dec
+2015,UNPROVOKED,SPAIN,Swimming,Female,NO,Other sharks,dec
+2015,UNPROVOKED,USA,Paddle boarding,Male,NO,Other sharks,dec
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2015,UNPROVOKED,BRAZIL,Scuba diving,Male,NO,Other sharks,dec
+2015,UNPROVOKED,BAHAMAS,Lobster fishing,Male,NO,Other sharks,dec
+2015,UNPROVOKED,ECUADOR,Snorkeling,Male,NO,Other sharks,nov
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,nov
+2015,UNPROVOKED,USA,Wading,Female,NO,Other sharks,nov
+2015,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,oct
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2015,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,oct
+2015,BOAT,USA,Kayak Fishing,Male,NO,Other sharks,oct
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2015,UNPROVOKED,USA,Wading,Male,NO,Other sharks,oct
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2015,BOAT,USA,Kayak fishing,Male,NO,White shark,sep
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2015,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,sep
+2015,UNPROVOKED,USA,Wading,Male,NO,Other sharks,sep
+2015,BOAT,USA,Kayak Fishing,Male,NO,Other sharks,sep
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+2015,UNPROVOKED,USA,Stand-Up Paddleboarding,Female,NO,White shark,sep
+2015,PROVOKED,USA,Kayak Fishing,Male,NO,Other sharks,sep
+2015,UNPROVOKED,AUSTRALIA,Surf-skiing,Male,NO,White shark,sep
+2015,UNPROVOKED,THAILAND,Wading,Female,NO,Other sharks,sep
+2015,UNPROVOKED,USA,Surfing,Female,NO,White shark,aug
+2015,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2015,UNPROVOKED,USA,Walking,Female,NO,Other sharks,aug
+2015,BOAT,USA,Kayak Fishing,Male,NO,White shark,aug
+2015,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,aug
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jul
+2015,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2015,UNPROVOKED,AUSTRALIA,Scallop diving on hookah,Male,YES,White shark,jul
+2015,PROVOKED,USA,Kayak Fishing,Male,NO,Other sharks,jul
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jul
+2015,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,jul
+2015,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+2015,UNPROVOKED,USA,Surfing,Male,NO,White shark,jul
+2015,UNPROVOKED,BAHAMAS,Spearfishing,Female,NO,Other sharks,jul
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jul
+2015,UNPROVOKED,AUSTRALIA,Body boarding ,Male,NO,White shark,jul
+2015,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2015,UNPROVOKED,USA,Playing in the water,Male,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2015,UNPROVOKED,SOUTH AFRICA,Body Boarding,Male,NO,White shark,jun
+2015,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jun
+2015,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jun
+2015,PROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2015,INVALID,AUSTRALIA,Surfing,Female,NO,White shark,jun
+2015,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Wading,Male,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Boogie boarding,Female,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Playing,Male,NO,Other sharks,jun
+2015,UNPROVOKED,USA,Attempting to rescue a shark,Female,NO,Other sharks,jun
+2015,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,jun
+2015,UNPROVOKED,FRENCH POLYNESIA,Spearfishing,Male,NO,Other sharks,may
+2015,UNPROVOKED,NEW CALEDONIA,Snorkeling,Male,YES,Other sharks,may
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,may
+2015,UNPROVOKED,SOUTH AFRICA,Diving,Male,NO,White shark,may
+2015,UNPROVOKED,USA,Wading,Male,NO,Other sharks,apr
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,apr
+2015,UNPROVOKED,AUSTRALIA,Surf skiing ,Male,NO,White shark,jun
+2015,UNPROVOKED,USA,Photographing the shark,Male,NO,Other sharks,apr
+2015,UNPROVOKED,REUNION,Surfing,Male,YES,Other sharks,apr
+2015,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,apr
+2015,BOAT,SOUTH AFRICA,Kayak Fishing,Male,NO,White shark,mar
+2015,UNPROVOKED,EGYPT,Swimming,Male,YES,Other sharks,mar
+2015,UNPROVOKED,USA,Standing / Snorkeling,Male,NO,Other sharks,mar
+2015,UNPROVOKED,FRENCH POLYNESIA,Hand feeding sharks,Male,NO,Other sharks,mar
+2015,UNPROVOKED,FRENCH POLYNESIA,Sitting in the water,Male,NO,Other sharks,mar
+2015,UNPROVOKED,REUNION,Swimming,Female,YES,Other sharks,feb
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,Other sharks,feb
+2015,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+2015,UNPROVOKED,AUSTRALIA,Bodysurfing,Male,NO,Other sharks,feb
+2015,BOAT,AUSTRALIA,Rowing,Male,NO,Other sharks,jan
+2015,PROVOKED,USA,Shark fishing,Male,NO,Other sharks,jan
+2015,BOAT,USA,Fishing,Male,NO,White shark,jan
+2015,BOAT,AUSTRALIA,Fishing,Male,NO,Other sharks,jan
+2015,UNPROVOKED,AUSTRALIA,Filming,Male,NO,Other sharks,jan
+2015,UNPROVOKED,BAHAMAS,Snorkeling,Female,NO,White shark,jan
+2015,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jan
+2014,UNPROVOKED,AUSTRALIA,Spearfishing,Male,YES,White shark,dec
+2014,UNPROVOKED,USA,Surfing,Male,NO,White shark,dec
+2014,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,dec
+2014,UNPROVOKED,JAPAN,Diving / Filming,Male,NO,Other sharks,dec
+2014,UNPROVOKED,AUSTRALIA,Spearfishing,Male,YES,Other sharks,dec
+2014,BOAT,AUSTRALIA,Fishing,Male,NO,White shark,nov
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2014,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,nov
+2014,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,oct
+2014,UNPROVOKED,USA,Stand-Up Paddleboarding,Female,NO,Other sharks,oct
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2014,UNPROVOKED,AUSTRALIA,Surfing,Female,NO,Other sharks,oct
+2014,UNPROVOKED,USA,Standing in inner tube,Female,NO,Other sharks,oct
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2014,BOAT,USA,Kayaking,Male,NO,White shark,oct
+2014,BOAT,USA,Kayaking ,Male,NO,White shark,oct
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2014,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,oct
+2014,UNPROVOKED,FRENCH POLYNESIA,Feeding fish,Female,NO,Other sharks,sep
+2014,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,sep
+2014,UNPROVOKED,USA,Fishing ,Male,NO,Other sharks,sep
+2014,BOAT,USA,Kayaking ,Female,NO,White shark,sep
+2014,PROVOKED,USA,Fishing,Male,NO,Other sharks,sep
+2014,UNPROVOKED,USA,Body surfing,Female,NO,Other sharks,aug
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2014,UNPROVOKED,SPAIN,Swimming,Female,NO,Other sharks,aug
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2014,PROVOKED,USA,Fishing for sharks,Male,NO,Other sharks,aug
+2014,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,aug
+2014,UNPROVOKED,USA,Standing,Male,NO,Other sharks,aug
+2014,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+2014,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+2014,UNPROVOKED,USA,Boogie boarding,Male,NO,Other sharks,aug
+2014,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,aug
+2014,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2014,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,jul
+2014,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2014,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2014,PROVOKED,USA,Swimming,Male,NO,White shark,jul
+2014,UNPROVOKED,USA,Body surfing,Male,NO,Other sharks,jul
+2014,BOAT,ST. MARTIN,Transatlantic Rowing,Male,NO,White shark,jun
+2014,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jun
+2014,PROVOKED,AUSTRALIA,Petting a shark,Male,NO,Other sharks,jun
+2014,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jun
+2014,UNPROVOKED,AUSTRALIA,Body boarding,Male,NO,Other sharks,jun
+2014,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jun
+2014,UNPROVOKED,USA,Tagging sharks,Female,NO,Other sharks,jun
+2014,UNPROVOKED,AUSTRALIA,Fell into the water,Female,NO,Other sharks,may
+2014,UNPROVOKED,FRANCE,Scuba diving,Male,NO,Other sharks,may
+2014,PROVOKED,AUSTRALIA,Teasing a shark,Male,NO,Other sharks,may
+2014,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,may
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2014,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,may
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2014,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,apr
+2014,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,apr
+2014,UNPROVOKED,AUSTRALIA,Swimming,Female,YES,White shark,apr
+2014,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,Other sharks,mar
+2014,UNPROVOKED,USA,Kite Surfing,Male,NO,Other sharks,mar
+2014,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,mar
+2014,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2014,UNPROVOKED,FRENCH POLYNESIA,Kitesurfing,Male,NO,Other sharks,feb
+2014,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,Other sharks,feb
+2014,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jan
+2014,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,NO,Other sharks,jan
+2013,UNPROVOKED,NEW CALEDONIA,Snorkeling,Male,NO,Other sharks,dec
+2013,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,dec
+2013,UNPROVOKED,USA,Boogie boarding,Male,NO,Other sharks,dec
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,dec
+2013,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2013,UNPROVOKED,AUSTRALIA,Body boarding,Male,YES,Other sharks,nov
+2013,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,nov
+2013,UNPROVOKED,USA,Surfing,Male,NO,White shark,nov
+2013,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,nov
+2013,UNPROVOKED,USA,Kiteboarding,Male,NO,Other sharks,oct
+2013,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,oct
+2013,UNPROVOKED,REUNION,Body boarding,Male,NO,Other sharks,oct
+2013,UNPROVOKED,AUSTRALIA,Diving for crayfish,Male,NO,White shark,oct
+2013,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+2013,UNPROVOKED,USA,Diving ,Male,NO,White shark,oct
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2013,UNPROVOKED,USA,Wading,Male,NO,Other sharks,oct
+2013,UNPROVOKED,SOUTH AFRICA,Swimming / snorkeling,Male,YES,White shark,oct
+2013,UNPROVOKED,AUSTRALIA,Diving for Abalone,Male,NO,White shark,oct
+2013,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2013,UNPROVOKED,USA,Wading,Male,NO,Other sharks,oct
+2013,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2013,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,sep
+2013,PROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2013,UNPROVOKED,USA,Standing,Male,NO,Other sharks,sep
+2013,UNPROVOKED,USA,Casting a net,Male,NO,Other sharks,sep
+2013,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+2013,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+2013,PROVOKED,FRANCE,Longline fishing for sharks,Male,NO,Other sharks,aug
+2013,UNPROVOKED,USA,Surfing,Female,NO,White shark,aug
+2013,UNPROVOKED,USA,Snorkeling,Female,YES,Other sharks,aug
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2013,UNPROVOKED,SOUTH AFRICA,Attempting to free the shark,Male,NO,Other sharks,aug
+2013,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+2013,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jul
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2013,UNPROVOKED,BAHAMAS,Cleaning fish,Male,NO,Other sharks,jul
+2013,BOAT,USA,Kayaking / Fishing,Male,NO,White shark,jun
+2013,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2013,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2013,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2013,UNPROVOKED,USA,Boogie Boarding,Female,NO,Other sharks,jun
+2013,PROVOKED,USA,Fishing for sharks,Male,NO,Other sharks,jun
+2013,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jun
+2013,UNPROVOKED,USA,Diving,Male,NO,Other sharks,may
+2013,UNPROVOKED,ECUADOR,Surfing,Male,NO,Other sharks,may
+2013,UNPROVOKED,REUNION,Body boarding,Male,YES,Other sharks,may
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2013,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,apr
+2013,UNPROVOKED,MEXICO,Swimming,Female,NO,Other sharks,apr
+2013,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,apr
+2013,UNPROVOKED,USA,Playing in the surf,Male,NO,Other sharks,apr
+2013,UNPROVOKED,SOUTH AFRICA,Free diving,Male,NO,Other sharks,apr
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2013,UNPROVOKED,FRENCH POLYNESIA,Kite boarding,Male,NO,Other sharks,apr
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2013,UNPROVOKED,BELIZE,Snorkeling,Female,NO,Other sharks,mar
+2013,PROVOKED,SOUTH AFRICA,Fishing - 'tag & release',Male,NO,Other sharks,mar
+2013,UNPROVOKED,JAMAICA,Spearfishing,Male,YES,Other sharks,mar
+2013,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,mar
+2013,UNPROVOKED,PHILIPPINES,Swimming to shore with floatioon devices after boat engine conked out,Male,NO,Other sharks,mar
+2013,UNPROVOKED,NEW ZEALAND,Swimming,Male,YES,White shark,feb
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+2013,UNPROVOKED,FRENCH POLYNESIA,Scuba diving,Male,NO,Other sharks,feb
+2013,BOAT,AUSTRALIA,Fishing,Male,NO,White shark,jan
+2013,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+2013,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,NO,Other sharks,jan
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2012,UNPROVOKED,AUSTRALIA,Paddle boarding,Male,NO,Other sharks,dec
+2012,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,Other sharks,dec
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,dec
+2012,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+2012,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,nov
+2012,UNPROVOKED,MEXICO,Swimming,Male,YES,Other sharks,nov
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2012,UNPROVOKED,USA,Diving,Male,NO,Other sharks,nov
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2012,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2012,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,oct
+2012,UNPROVOKED,USA,Surfing,Male,YES,White shark,oct
+2012,UNPROVOKED,USA,Paddle boarding,Male,NO,Other sharks,oct
+2012,UNPROVOKED,AUSTRALIA,Bodyboarding,Male,NO,Other sharks,oct
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2012,UNPROVOKED,TONGA,Swimming,Female,NO,Other sharks,sep
+2012,UNPROVOKED,USA,Boogie boarding,Female,NO,Other sharks,sep
+2012,UNPROVOKED,USA,Swimming or boogie boarding,Female,NO,Other sharks,sep
+2012,PROVOKED,SCOTLAND,Shark fishing,Male,NO,Other sharks,aug
+2012,UNPROVOKED,USA,Free diving ,Male,NO,Other sharks,aug
+2012,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,aug
+2012,UNPROVOKED,FRENCH POLYNESIA,Spearfishing,Male,NO,Other sharks,aug
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jul
+2012,UNPROVOKED,USA,Body surfing,Male,NO,White shark,jul
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,jul
+2012,BOAT,USA,Kayaking,Male,NO,Other sharks,jul
+2012,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jul
+2012,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2012,UNPROVOKED,USA,Sitting in the water,Female,NO,Other sharks,jun
+2012,UNPROVOKED,AUSTRALIA,Surf skiing ,Male,NO,Other sharks,jun
+2012,PROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+2012,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jun
+2012,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2012,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2012,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jun
+2012,UNPROVOKED,AUSTRALIA,Surf skiing ,Male,NO,White shark,jun
+2012,UNPROVOKED,USA,Wading,Female,NO,Other sharks,may
+2012,UNPROVOKED,MEXICO,Free diving / spearfishing,Male,NO,Other sharks,may
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2012,BOAT,USA,Kayak Fishing,Male,NO,Other sharks,may
+2012,BOAT,USA,Kayaking / Fishing,Male,NO,White shark,may
+2012,UNPROVOKED,USA,Paddle boarding,Female,NO,White shark,may
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2012,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,YES,White shark,apr
+2012,BOAT,AUSTRALIA,Kayaking,Male,NO,White shark,apr
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2012,UNPROVOKED,AUSTRALIA,Scuba diving,Male,YES,White shark,mar
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2012,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,mar
+2012,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2012,PROVOKED,AUSTRALIA,"Diving, feeding sharks",Female,NO,Other sharks,mar
+2012,UNPROVOKED,USA,Kite Surfing,Male,NO,Other sharks,mar
+2012,PROVOKED,USA,Kite Surfing,Male,NO,Other sharks,feb
+2012,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,feb
+2012,UNPROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,jan
+2012,UNPROVOKED,BAHAMAS,"Diving, photographing sharks",Male,NO,Other sharks,jan
+2012,PROVOKED,TAIWAN,Fishing,Male,NO,Other sharks,jan
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jan
+2012,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,Other sharks,jan
+2012,UNPROVOKED,USA,Surfing,Male,NO,White shark,jan
+2012,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+2012,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jan
+2011,PROVOKED,USA,Canoeing,Male,NO,Other sharks,dec
+2011,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,dec
+2011,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2011,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,nov
+2011,BOAT,USA,Kayaking,Male,NO,White shark,nov
+2011,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2011,UNPROVOKED,SCOTLAND,Surfing,Male,NO,Other sharks,oct
+2011,UNPROVOKED,AUSTRALIA,Diving,Male,YES,White shark,oct
+2011,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2011,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,oct
+2011,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2011,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2011,BOAT,REUNION,Canoeing,Male,NO,Other sharks,oct
+2011,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,sep
+2011,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,sep
+2011,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2011,UNPROVOKED,PAPUA NEW GUINEA,Kite Surfing,Male,NO,Other sharks,sep
+2011,UNPROVOKED,AUSTRALIA,Body boarding,Male,YES,White shark,sep
+2011,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2011,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2011,UNPROVOKED,SOUTH AFRICA,Surfing,Male,YES,White shark,aug
+2011,UNPROVOKED,USA,Wading,Female,NO,Other sharks,aug
+2011,UNPROVOKED,RUSSIA,Swimming,Male,NO,Other sharks,aug
+2011,UNPROVOKED,FRENCH POLYNESIA,Surfing,Male,NO,Other sharks,aug
+2011,UNPROVOKED,SEYCHELLES,Swimming or Snorkeling,Male,YES,Other sharks,aug
+2011,INVALID,USA,Playing in the surf,Male,NO,Other sharks,aug
+2011,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+2011,UNPROVOKED,SOUTH AFRICA,Scuba diving,Male,NO,Other sharks,jun
+2011,UNPROVOKED,USA,Playing in the surf,Female,NO,Other sharks,jun
+2011,UNPROVOKED,USA,Surfing,Male,NO,White shark,jun
+2011,UNPROVOKED,TURKS & CAICOS,Spearfishing,Male,NO,Other sharks,jun
+2011,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,jun
+2011,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,jun
+2011,UNPROVOKED,USA,Wading,Male,NO,Other sharks,jun
+2011,UNPROVOKED,MALAYSIA,Snorkeling,Female,NO,Other sharks,jun
+2011,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,may
+2011,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,may
+2011,UNPROVOKED,USA,Paddle boarding,Female,NO,Other sharks,may
+2011,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,YES,Other sharks,may
+2011,UNPROVOKED,NEW CALEDONIA,Kite Boarding,Male,YES,Other sharks,may
+2011,PROVOKED,USA,Fishing ,Male,NO,Other sharks,may
+2011,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,apr
+2011,UNPROVOKED,AUSTRALIA,Washing sand off a speared fish,Male,NO,Other sharks,apr
+2011,UNPROVOKED,USA,Surfing ,Male,NO,Other sharks,apr
+2011,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,Other sharks,apr
+2011,UNPROVOKED,INDONESIA,Surfing,Male,NO,Other sharks,apr
+2011,PROVOKED,USA,"Standing, holding shark pup",Male,NO,Other sharks,mar
+2011,UNPROVOKED,MEXICO,Swimming,Female,NO,Other sharks,mar
+2011,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2011,UNPROVOKED,AUSTRALIA,Wakeboarding,Female,NO,Other sharks,mar
+2011,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,feb
+2011,UNPROVOKED,NEW CALEDONIA,Spearfishing,Male,NO,Other sharks,feb
+2011,UNPROVOKED,AUSTRALIA,Diving for abalone,Male,YES,White shark,feb
+2011,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,feb
+2011,UNPROVOKED,MEXICO,Swimming,Female,NO,Other sharks,jan
+2011,UNPROVOKED,BAHAMAS,Scuba diving,Male,NO,Other sharks,jan
+2010,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,dec
+2010,UNPROVOKED,EGYPT,Snorkeling,Female,YES,White shark,dec
+2010,UNPROVOKED,EGYPT,Snorkeling,Male,NO,Other sharks,dec
+2010,UNPROVOKED,EGYPT,Snorkeling,Male,NO,Other sharks,dec
+2010,UNPROVOKED,EGYPT,Snorkeling,Female,NO,White shark,nov
+2010,UNPROVOKED,EGYPT,Snorkeling,Female,NO,White shark,nov
+2010,BOAT,AUSTRALIA,Fishing,Male,NO,White shark,nov
+2010,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,White shark,oct
+2010,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,oct
+2010,UNPROVOKED,USA,Body boarding,Male,YES,White shark,oct
+2010,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+2010,UNPROVOKED,BAHAMAS,Snorkeling,Male,NO,Other sharks,oct
+2010,UNPROVOKED,BAHAMAS,Surfing,Female,NO,Other sharks,oct
+2010,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+2010,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,sep
+2010,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+2010,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2010,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,aug
+2010,BOAT,USA,Kayak Fishing,Male,NO,White shark,aug
+2010,UNPROVOKED,MALTA,Windsurfing,Male,NO,Other sharks,aug
+2010,BOAT,USA,Kayaking,Male,NO,White shark,aug
+2010,UNPROVOKED,USA,Standing,Female,NO,Other sharks,aug
+2010,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jul
+2010,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2010,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+2010,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2010,PROVOKED,SPAIN,Swimming,Male,NO,Other sharks,jul
+2010,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+2010,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+2010,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2010,UNPROVOKED,USA,Stand-Up Paddleboarding,Male,NO,Other sharks,jul
+2010,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2010,UNPROVOKED,VIETNAM,Swimming,Male,NO,Other sharks,jun
+2010,UNPROVOKED,USA,Boogie Boarding,Female,NO,Other sharks,jun
+2010,PROVOKED,USA,Fishing,Male,NO,Other sharks,may
+2010,UNPROVOKED,VIETNAM,Rescuing,Female,NO,Other sharks,may
+2010,UNPROVOKED,VIETNAM,Swimming,Female,NO,Other sharks,may
+2010,UNPROVOKED,USA,Wading,Female,NO,Other sharks,may
+2010,PROVOKED,USA,Measuring sharks,Male,NO,Other sharks,apr
+2010,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2010,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,apr
+2010,UNPROVOKED,EGYPT,Swimming / treading water,Male,NO,White shark,apr
+2010,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,mar
+2010,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,feb
+2010,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,feb
+2010,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+2010,PROVOKED,NEW ZEALAND,Spearfishing,Male,NO,Other sharks,feb
+2010,UNPROVOKED,AUSTRALIA,Body boarding,Male,NO,White shark,feb
+2010,PROVOKED,USA,Surf fishing / wading,Male,NO,Other sharks,feb
+2010,PROVOKED,NEW ZEALAND,Boogie Boarding,Female,NO,Other sharks,feb
+2010,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,jan
+2010,UNPROVOKED,SOUTH AFRICA,Standing,Male,YES,White shark,jan
+2010,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,White shark,jan
+2009,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,dec
+2009,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+2009,UNPROVOKED,NEW ZEALAND,Swimming to shore from capsized kayak,Male,YES,White shark,dec
+2009,PROVOKED,USA,Diving,Male,NO,Other sharks,dec
+2009,UNPROVOKED,USA,Wading,Male,NO,Other sharks,nov
+2009,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,nov
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2009,UNPROVOKED,AUSTRALIA,Kayaking,Male,NO,Other sharks,nov
+2009,BOAT,AUSTRALIA,Kayaking,Male,NO,White shark,oct
+2009,UNPROVOKED,MOZAMBIQUE,Spearfishing,Male,NO,Other sharks,oct
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2009,PROVOKED,SCOTLAND,Diving,Male,NO,Other sharks,oct
+2009,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,oct
+2009,PROVOKED,UNITED KINGDOM,Fishing,Male,NO,Other sharks,oct
+2009,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2009,INVALID,USA,Swimming,Male,YES,Other sharks,sep
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2009,UNPROVOKED,SOUTH AFRICA,Surfing,Male,YES,White shark,aug
+2009,UNPROVOKED,USA,Swimming,Female,NO,White shark,aug
+2009,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,aug
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2009,UNPROVOKED,USA,Wade Fishing,Male,NO,Other sharks,aug
+2009,PROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jul
+2009,UNPROVOKED,USA,Paddle-surfing,Male,NO,Other sharks,jul
+2009,PROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+2009,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jun
+2009,PROVOKED,VIETNAM,Fishing for sharks,Male,NO,White shark,jun
+2009,UNPROVOKED,EGYPT,Scuba diving,Male,NO,White shark,jun
+2009,UNPROVOKED,EGYPT,Scuba diving,Male,NO,White shark,jun
+2009,UNPROVOKED,EGYPT,Snorkeling,Female,YES,White shark,jun
+2009,PROVOKED,TAIWAN,Fishing,Male,NO,Other sharks,may
+2009,PROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2009,PROVOKED,GUAM,Spearfishing,Male,NO,Other sharks,may
+2009,PROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,mar
+2009,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2009,UNPROVOKED,AUSTRALIA,Surf skiing ,Male,NO,Other sharks,apr
+2009,UNPROVOKED,USA,Spearfishing,Male,NO,White shark,apr
+2009,PROVOKED,SOUTH AFRICA,Fishing ,Male,NO,Other sharks,mar
+2009,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2009,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,mar
+2009,UNPROVOKED,MALAYSIA,Feeding fish,Female,NO,Other sharks,mar
+2009,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,mar
+2009,PROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,mar
+2009,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,mar
+2009,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2009,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,feb
+2009,UNPROVOKED,AUSTRALIA,"Diving, but on the surface when bitten by the shark",Male,NO,Other sharks,feb
+2009,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,feb
+2009,UNPROVOKED,CUBA,Spearfishing,Male,NO,Other sharks,jan
+2009,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,Other sharks,jan
+2009,BOAT,AUSTRALIA,Fishing,Male,NO,White shark,jan
+2009,UNPROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,jan
+2009,UNPROVOKED,AUSTRALIA,Surfing,Female,NO,White shark,jan
+2009,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jan
+2009,UNPROVOKED,NEW ZEALAND,Swimming,Male,NO,Other sharks,jan
+2008,BOAT,AUSTRALIA,Kayaking,Male,NO,White shark,dec
+2008,UNPROVOKED,AUSTRALIA,Snorkeling,Male,YES,White shark,dec
+2008,BOAT,USA,Kayaking,Male,NO,White shark,dec
+2008,UNPROVOKED,NEW ZEALAND,Fishing,Male,NO,Other sharks,dec
+2008,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,dec
+2008,UNPROVOKED,EGYPT,Scuba diving,Female,NO,White shark,nov
+2008,BOAT,AUSTRALIA,Fishing,Male,NO,Other sharks,nov
+2008,PROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,oct
+2008,UNPROVOKED,NEW CALEDONIA,Spearfishing,Male,NO,Other sharks,oct
+2008,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,oct
+2008,UNPROVOKED,CROATIA,Spearfishing,Male,NO,White shark,oct
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2008,PROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,sep
+2008,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2008,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+2008,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2008,PROVOKED,ENGLAND,Fishing,Male,NO,Other sharks,aug
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2008,UNPROVOKED,USA,Treading water,Female,NO,Other sharks,aug
+2008,UNPROVOKED,USA,Diving,Male,NO,Other sharks,aug
+2008,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jul
+2008,UNPROVOKED,PANAMA,Swimming or surfing,Male,NO,Other sharks,jul
+2008,UNPROVOKED,MEXICO,Swimming,Male,NO,Other sharks,jul
+2008,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2008,UNPROVOKED,USA,Wading,Male,NO,Other sharks,jul
+2008,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jul
+2008,UNPROVOKED,USA,Wading,Male,NO,Other sharks,jul
+2008,UNPROVOKED,EGYPT,Diving,Male,NO,White shark,jul
+2008,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jun
+2008,UNPROVOKED,SOUTH AFRICA,Surf skiing ,Male,NO,White shark,jun
+2008,UNPROVOKED,SOUTH AFRICA,Spearfishing (free diving),Male,NO,White shark,jun
+2008,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2008,BOAT,USA,Kayaking,Female,NO,White shark,jun
+2008,UNPROVOKED,USA,Body surfing,Female,NO,Other sharks,jun
+2008,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,jun
+2008,SEA DISASTER,BAHAMAS,Sea Disaster,Male,NO,Other sharks,may
+2008,UNPROVOKED,MEXICO,Surfing,Male,NO,Other sharks,may
+2008,UNPROVOKED,MEXICO,Surfing,Male,YES,Other sharks,may
+2008,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,White shark,may
+2008,UNPROVOKED,NEW CALEDONIA,Fishing,Male,NO,Other sharks,may
+2008,UNPROVOKED,MEXICO,Surfing,Male,YES,Other sharks,apr
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2008,UNPROVOKED,NEW CALEDONIA,Swimming,Male,NO,Other sharks,apr
+2008,UNPROVOKED,USA,Swimming,Male,YES,White shark,apr
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2008,UNPROVOKED,USA,Wading,Male,NO,Other sharks,mar
+2008,UNPROVOKED,AUSTRALIA,Body boarding,Male,YES,Other sharks,apr
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2008,UNPROVOKED,USA,Boogie Boarding,Male,NO,Other sharks,mar
+2008,UNPROVOKED,USA,Walking out of the water after surfing,Male,NO,Other sharks,mar
+2008,UNPROVOKED,USA,Jet skiing,Male,NO,Other sharks,mar
+2008,UNPROVOKED,USA,Surfing,Male,NO,White shark,mar
+2008,UNPROVOKED,BAHAMAS,Diving,Male,YES,Other sharks,feb
+2008,UNPROVOKED,AUSTRALIA,Surfing,Female,NO,Other sharks,feb
+2008,UNPROVOKED,USA,Surf-skiing,Male,NO,Other sharks,feb
+2008,UNPROVOKED,SOUTH AFRICA,Surf-skiing,Male,NO,Other sharks,jan
+2008,PROVOKED,AUSTRALIA,Accidentally stood on hooked shark's tail before attempting to gut it ,Male,NO,Other sharks,jan
+2008,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+2007,UNPROVOKED,ECUADOR,Surfing,Male,NO,Other sharks,dec
+2007,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2007,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,dec
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,dec
+2007,UNPROVOKED,BRAZIL,Removing fish from a trap,Male,NO,Other sharks,dec
+2007,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,nov
+2007,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,nov
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2007,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,nov
+2007,UNPROVOKED,USA,Floating,Male,NO,Other sharks,oct
+2007,UNPROVOKED,AUSTRALIA,Surf-skiing,Female,NO,White shark,oct
+2007,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,oct
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2007,UNPROVOKED,NEW CALEDONIA,Swimming,Female,YES,Other sharks,sep
+2007,UNPROVOKED,BAHAMAS,Spearfishing,Female,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Surfing,Female,NO,White shark,sep
+2007,UNPROVOKED,EGYPT,Swimming,Female,NO,White shark,sep
+2007,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2007,UNPROVOKED,SOLOMON ISLANDS,Spearfishing,Male,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Jumping,Female,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2007,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2007,PROVOKED,USA,Diving,Male,NO,Other sharks,aug
+2007,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Floating near boat & observing bioluminesce,Male,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Jumped into the water,Female,NO,Other sharks,aug
+2007,UNPROVOKED,USA,Surf paddling,Male,NO,White shark,jul
+2007,BOAT,USA,Kayak Fishing,Male,NO,White shark,jul
+2007,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,jul
+2007,UNPROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,jul
+2007,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2007,PROVOKED,NORWAY,Scuba diving,Male,NO,Other sharks,jul
+2007,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jul
+2007,UNPROVOKED,BAHAMAS,Spearfishing,Female,NO,Other sharks,jul
+2007,UNPROVOKED,REUNION,Body boarding,Male,NO,Other sharks,jul
+2007,PROVOKED,USA,Removing hook from shark,Male,NO,Other sharks,jun
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2007,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jun
+2007,PROVOKED,USA,Reviving a sedated shark,Female,NO,Other sharks,may
+2007,PROVOKED,ENGLAND,Fishing,Male,NO,Other sharks,may
+2007,UNPROVOKED,AUSTRALIA,Wading,Female,NO,Other sharks,may
+2007,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,may
+2007,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,may
+2007,UNPROVOKED,SEYCHELLES,Snorkeling,Male,NO,White shark,may
+2007,UNPROVOKED,USA,Snorkeling,Female,NO,Other sharks,may
+2007,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2007,UNPROVOKED,AUSTRALIA,Swimming / jumping off a jetty,Female,NO,Other sharks,apr
+2007,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,apr
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2007,UNPROVOKED,NEW CALEDONIA,Surfing,Male,NO,Other sharks,apr
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2007,UNPROVOKED,AUSTRALIA,Surfing,Female,NO,Other sharks,mar
+2007,PROVOKED,USA,Shark fishing,Male,NO,Other sharks,mar
+2007,UNPROVOKED,AUSTRALIA,Swimming,Female,NO,Other sharks,mar
+2007,PROVOKED,NEW ZEALAND,Spearfishing,Male,NO,Other sharks,mar
+2007,UNPROVOKED,NEW CALEDONIA,Spearfishing (free diving),Male,NO,Other sharks,jan
+2007,UNPROVOKED,AUSTRALIA,Diving,Male,NO,White shark,jan
+2007,UNPROVOKED,SOUTH AFRICA,Swimming / Body Surfing,Male,YES,Other sharks,jan
+2007,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+2007,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+2006,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,dec
+2006,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,Other sharks,dec
+2006,UNPROVOKED,USA,Surfing,Male,NO,White shark,dec
+2006,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,dec
+2006,UNPROVOKED,AUSTRALIA,Body boarding,Male,NO,White shark,dec
+2006,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,nov
+2006,PROVOKED,SOUTH AFRICA,Canoeing,Male,NO,Other sharks,nov
+2006,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2006,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2006,UNPROVOKED,USA,Playing soccer in the water,Male,NO,Other sharks,oct
+2006,PROVOKED,USA,Diving / Kissing the shark,Male,NO,Other sharks,sep
+2006,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+2006,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2006,UNPROVOKED,USA,Standing,Male,NO,Other sharks,sep
+2006,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,sep
+2006,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,aug
+2006,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,aug
+2006,UNPROVOKED,SOUTH AFRICA,Lifesaving drill,Male,NO,White shark,aug
+2006,UNPROVOKED,USA,Surfing,Male,NO,White shark,jul
+2006,INVALID,USA,Boogie Boarding,Male,NO,Other sharks,jul
+2006,UNPROVOKED,SOUTH AFRICA,Surf-skiing,Male,NO,White shark,jul
+2006,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2006,UNPROVOKED,USA,Surf fishing,Male,NO,Other sharks,jul
+2006,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jul
+2006,UNPROVOKED,USA,Body boarding,Female,NO,Other sharks,jul
+2006,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,jun
+2006,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2006,UNPROVOKED,USA,Playing,Female,NO,Other sharks,jun
+2006,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jun
+2006,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,may
+2006,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,may
+2006,UNPROVOKED,USA,Scuba diving,Female,NO,Other sharks,may
+2006,PROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,may
+2006,PROVOKED,USA,Fishing,Male,NO,Other sharks,apr
+2006,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+2006,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,Other sharks,apr
+2006,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,apr
+2006,UNPROVOKED,SIERRA LEONE,Fishing,Male,YES,Other sharks,mar
+2006,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,mar
+2006,UNPROVOKED,FIJI,Surfing,Male,NO,Other sharks,mar
+2006,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2006,UNPROVOKED,USA,Standing,Female,NO,Other sharks,feb
+2006,BOAT,AUSTRALIA,Fishing,Male,NO,White shark,feb
+2006,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,feb
+2006,UNPROVOKED,TONGA,Swimming,Female,YES,Other sharks,feb
+2006,BOAT,USA,Kayaking,Male,NO,Other sharks,feb
+2006,BOAT,,Competing in the Woodvale Atlantic Rowing Race,Male,NO,Other sharks,jan
+2006,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,White shark,jan
+2006,UNPROVOKED,AUSTRALIA,Swimming,Female,YES,Other sharks,jan
+2006,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+2006,UNPROVOKED,SOUTH AFRICA,Diving for crayfish,Male,NO,Other sharks,jan
+2005,UNPROVOKED,USA,Surfing,Male,NO,White shark,dec
+2005,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,dec
+2005,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,White shark,dec
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2005,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,nov
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2005,PROVOKED,SOUTH AFRICA,Fishing for sharks,Male,NO,Other sharks,nov
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2005,UNPROVOKED,USA,Surfing,Male,NO,White shark,nov
+2005,UNPROVOKED,USA,Wading,Male,NO,Other sharks,oct
+2005,UNPROVOKED,ST. MAARTIN,Standing,Male,NO,Other sharks,oct
+2005,UNPROVOKED,SOUTH AFRICA,Standing / Surfing,Male,NO,Other sharks,oct
+2005,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2005,UNPROVOKED,USA,Surfing,Female,NO,White shark,oct
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2005,UNPROVOKED,GRAND CAYMAN,Scuba diving,Female,NO,Other sharks,oct
+2005,UNPROVOKED,SOUTH AFRICA,Surf-skiing,Male,NO,White shark,oct
+2005,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+2005,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,sep
+2005,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+2005,UNPROVOKED,USA,Body surfing,Female,NO,Other sharks,sep
+2005,UNPROVOKED,USA,Wading,Female,NO,Other sharks,sep
+2005,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,sep
+2005,PROVOKED,THAILAND,Removing shark from net,Male,YES,Other sharks,sep
+2005,UNPROVOKED,AUSTRALIA,Scuba diving,Male,YES,White shark,aug
+2005,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+2005,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2005,PROVOKED,CHINA,Scuba diving in aquarium tank,Male,NO,Other sharks,jul
+2005,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2005,UNPROVOKED,USA,Holding onto an inflatable boat,Female,NO,Other sharks,jul
+2005,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+2005,UNPROVOKED,USA,Swimming with boogie board,Female,YES,Other sharks,jun
+2005,UNPROVOKED,VANUATU,Swimming,Female,YES,Other sharks,jun
+2005,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2005,UNPROVOKED,SOUTH KOREA,Diving,Female,NO,White shark,jun
+2005,UNPROVOKED,SOUTH AFRICA,Spearfishing (Free diving),Male,YES,White shark,jun
+2005,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2005,UNPROVOKED,USA,Crouching in 2' of water,Female,NO,Other sharks,may
+2005,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,may
+2005,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,may
+2005,UNPROVOKED,MADAGASCAR,Fishing,Male,NO,Other sharks,may
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2005,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,apr
+2005,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,apr
+2005,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+2005,UNPROVOKED,USA,Wading,Female,NO,Other sharks,apr
+2005,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,mar
+2005,UNPROVOKED,AUSTRALIA,Snorkeling,Male,YES,White shark,mar
+2005,PROVOKED,USA,Diving in aquarium display tank,Male,NO,Other sharks,mar
+2005,PROVOKED,NEW ZEALAND,Fishing,Male,NO,Other sharks,mar
+2005,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,feb
+2005,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,feb
+2005,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+2005,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,feb
+2005,UNPROVOKED,CUBA,Swimming,Male,NO,Other sharks,jan
+2005,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jan
+2005,BOAT,NEW ZEALAND,Fishing from a kayak,Male,NO,White shark,jan
+2004,UNPROVOKED,AUSTRALIA,Scurfing (surfboard being  towed behind a boat),Male,YES,White shark,dec
+2004,UNPROVOKED,AUSTRALIA,Spearfishing,Male,YES,Other sharks,dec
+2004,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,nov
+2004,UNPROVOKED,SOUTH AFRICA,Playing,Male,NO,Other sharks,nov
+2004,UNPROVOKED,SOUTH AFRICA,Swimming,Female,YES,White shark,nov
+2004,UNPROVOKED,CUBA,Diving,Male,NO,Other sharks,oct
+2004,UNPROVOKED,SOUTH AFRICA,Chumming for white sharks,Male,NO,White shark,oct
+2004,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+2004,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+2004,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,oct
+2004,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,oct
+2004,UNPROVOKED,REUNION,Body boarding,Male,NO,Other sharks,oct
+2004,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+2004,UNPROVOKED,USA,Jumping,Female,NO,Other sharks,sep
+2004,UNPROVOKED,BRAZIL,Bathing,Male,NO,Other sharks,aug
+2004,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+2004,UNPROVOKED,USA,Diving,Male,YES,White shark,aug
+2004,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+2004,UNPROVOKED,RUSSIA,Diving & fishing with net,Male,NO,White shark,jul
+2004,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+2004,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+2004,UNPROVOKED,USA,Wading / fishing & carrying a bag of fish,Male,NO,Other sharks,jul
+2004,UNPROVOKED,JAPAN,Fishing for squid aboard the trawler Shikishima-Maru when the shark leapt into the boat,Male,NO,Other sharks,jul
+2004,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,Other sharks,jul
+2004,UNPROVOKED,EGYPT,Snorkeling,Female,NO,Other sharks,jul
+2004,UNPROVOKED,USA,Wading,Male,NO,Other sharks,jul
+2004,UNPROVOKED,USA,Surfing,Male,NO,White shark,jun
+2004,UNPROVOKED,AUSTRALIA,Body boarding,Male,NO,Other sharks,jun
+2004,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2004,UNPROVOKED,SOUTH AFRICA,"Swimming, poaching perlemoen",Male,YES,White shark,jun
+2004,UNPROVOKED,USA,Wading,Male,NO,Other sharks,may
+2004,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,may
+2004,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2004,PROVOKED,BAHAMAS,Free diving & spearfishing,Male,NO,Other sharks,may
+2004,UNPROVOKED,USA,Tandem surfing,Male,NO,Other sharks,may
+2004,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,apr
+2004,UNPROVOKED,TONGA,Five men on makeshift raft after their 10 m fishing boat  capsized and sank in rough seas. Survivors rescued after  7.5 hours in the water,Male,YES,Other sharks,apr
+2004,INVALID,TONGA,Five men on makeshift raft after their 10 m fishing boat  capsized and sank in rough seas. Survivors rescued after  7.5 hours in the water,Male,YES,Other sharks,apr
+2004,UNPROVOKED,USA,Surfing,Male,YES,Other sharks,apr
+2004,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,apr
+2004,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2004,UNPROVOKED,BRAZIL,Body boarding,Male,NO,Other sharks,mar
+2004,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2004,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,mar
+2004,UNPROVOKED,USA,Snorkeling,Female,NO,Other sharks,mar
+2004,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,NO,Other sharks,mar
+2004,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2004,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,mar
+2004,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,Other sharks,feb
+2004,UNPROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,feb
+2004,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,White shark,jan
+2004,UNPROVOKED,URUGUAY,Surfing,Male,NO,Other sharks,jan
+2004,UNPROVOKED,VENEZUELA,Swimming,Male,NO,Other sharks,jan
+2004,UNPROVOKED,VENEZUELA,Spearfishing,Male,NO,Other sharks,jan
+2004,BOAT,SOUTH AFRICA,Surf skiing,Male,NO,Other sharks,jan
+2004,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,jan
+2004,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jan
+2003,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,nov
+2003,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,nov
+2003,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,YES,Other sharks,nov
+2003,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,nov
+2003,UNPROVOKED,INDIA,Swimming or surfing,Male,NO,Other sharks,nov
+2003,UNPROVOKED,EGYPT,Snorkeling,Male,NO,White shark,nov
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2003,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+2003,UNPROVOKED,USA,Surfing,Female,NO,Other sharks,oct
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2003,INVALID,USA,Swimming to shore from boat or kayak,Male,YES,Other sharks,oct
+2003,UNPROVOKED,USA,Wading near a fishing net,Female,NO,Other sharks,oct
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2003,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,sep
+2003,UNPROVOKED,USA,"Standing, stepped on shark",Male,NO,Other sharks,sep
+2003,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,YES,White shark,sep
+2003,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+2003,UNPROVOKED,USA,"Swimming, wearing black wetsuit & swim fins",Female,YES,White shark,aug
+2003,UNPROVOKED,SOUTH AFRICA,Sitting on surfboard,Male,NO,White shark,aug
+2003,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jul
+2003,PROVOKED,USA,"Walking, carrying surfboard & stepped on shark",Male,NO,Other sharks,jul
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2003,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jul
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2003,UNPROVOKED,USA,Standing,Female,NO,Other sharks,jun
+2003,UNPROVOKED,USA,Swimming with pod of dolphins,Male,NO,Other sharks,jun
+2003,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2003,UNPROVOKED,USA,Surfing ,Male,NO,Other sharks,jun
+2003,UNPROVOKED,USA,Wading,Male,NO,Other sharks,may
+2003,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2003,PROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2003,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Jumping,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Swimming (using a float),Male,NO,Other sharks,apr
+2003,UNPROVOKED,VENEZUELA,Surfing,Male,NO,Other sharks,apr
+2003,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2003,PROVOKED,USA,Petting captive sharks,Female,NO,Other sharks,mar
+2003,UNPROVOKED,NEW ZEALAND,Scuba diving,Male,NO,White shark,feb
+2003,UNPROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,feb
+2003,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,feb
+2003,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,feb
+2003,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,feb
+2003,UNPROVOKED,COSTA RICA,Surfing,Male,NO,Other sharks,jan
+2003,UNPROVOKED,AUSTRALIA,Surfing,Female,NO,Other sharks,jan
+2002,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,dec
+2002,UNPROVOKED,SOUTH AFRICA,Snorkeling,Male,NO,White shark,dec
+2002,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,dec
+2002,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,dec
+2002,UNPROVOKED,MICRONESIA,Scuba diving,Male,NO,Other sharks,nov
+2002,UNPROVOKED,USA,Body boarding,Male,NO,White shark,nov
+2002,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,nov
+2002,UNPROVOKED,TURKS & CAICOS,Snorkeling,Female,NO,Other sharks,nov
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+2002,UNPROVOKED,USA,Boogie boarding,Male,NO,Other sharks,nov
+2002,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,oct
+2002,UNPROVOKED,BRAZIL,Swimming,Male,YES,Other sharks,oct
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2002,UNPROVOKED,USA,Fishing from Surfboard,Male,NO,Other sharks,sep
+2002,PROVOKED,USA,Fishing,Male,NO,Other sharks,sep
+2002,PROVOKED,TONGA,Swimming,Male,NO,Other sharks,sep
+2002,UNPROVOKED,USA,Boogie boarding or Surfing,Male,NO,Other sharks,sep
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+2002,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,sep
+2002,UNPROVOKED,SOUTH AFRICA,Surf skiing,Male,NO,White shark,sep
+2002,UNPROVOKED,USA,Boogie boarding,Male,NO,Other sharks,sep
+2002,PROVOKED,USA,"Wading, when he stepped on the shark",Male,NO,Other sharks,sep
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2002,PROVOKED,UNITED KINGDOM,Diving,Male,NO,Other sharks,aug
+2002,UNPROVOKED,USA,Standing,Male,NO,Other sharks,aug
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2002,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+2002,PROVOKED,USA,Shark Fishing,Male,YES,Other sharks,jul
+2002,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,jul
+2002,UNPROVOKED,USA,Standing,Female,NO,Other sharks,jul
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2002,UNPROVOKED,SOUTH AFRICA,Snorkeling (filming the sardine run),Male,NO,Other sharks,jun
+2002,UNPROVOKED,USA,Surfing,Male,NO,White shark,may
+2002,UNPROVOKED,USA,Floating on a raft,Male,NO,Other sharks,may
+2002,PROVOKED,USA,"Fishing, removing the shark from his line",Male,NO,Other sharks,may
+2002,UNPROVOKED,COSTA RICA,Surfing,Male,NO,Other sharks,may
+2002,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,may
+2002,UNPROVOKED,AUSTRALIA,Scallop diving (using surface-supplied air & a POD) ,Male,YES,White shark,apr
+2002,UNPROVOKED,USA,"Surfing, but standing in water alongside board",Male,NO,Other sharks,apr
+2002,UNPROVOKED,BAHAMAS,Standing,Male,NO,Other sharks,apr
+2002,UNPROVOKED,USA,Wading,Male,NO,Other sharks,apr
+2002,UNPROVOKED,USA,Swimming / Wading,Male,NO,Other sharks,apr
+2002,UNPROVOKED,USA,Body-boarding,Male,NO,Other sharks,mar
+2002,UNPROVOKED,USA,Wading,Female,NO,Other sharks,mar
+2002,UNPROVOKED,USA,Swimming /  boogie boarding,Male,NO,Other sharks,mar
+2002,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,mar
+2002,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2002,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+2002,BOAT,AUSTRALIA,Kayaking,Male,NO,Other sharks,feb
+2002,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+2002,UNPROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,jan
+2002,UNPROVOKED,SOUTH AFRICA,Surf skiing,Male,NO,Other sharks,jan
+2002,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,jan
+2001,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,nov
+2001,UNPROVOKED,SOUTH AFRICA,Kite-Boarding,Male,NO,Other sharks,oct
+2001,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,oct
+2001,UNPROVOKED,MEXICO,Body surfing,Male,NO,Other sharks,sep
+2001,PROVOKED,USA,"Surfing, fell off surfboard & stepped on the shark.",Male,NO,Other sharks,sep
+2001,INVALID,USA,Wreck / Technical diving,Male,YES,Other sharks,sep
+2001,UNPROVOKED,USA,Boogie boarding,Male,NO,Other sharks,sep
+2001,PROVOKED,UNITED KINGDOM,Diving,Male,NO,Other sharks,sep
+2001,INVALID,USA,Swimming,Female,NO,Other sharks,sep
+2001,UNPROVOKED,USA,Swimming ,Male,YES,White shark,sep
+2001,UNPROVOKED,USA,Swimming,Female,NO,White shark,sep
+2001,UNPROVOKED,USA,Wading,Male,NO,Other sharks,sep
+2001,UNPROVOKED,USA,Swimming ,Male,YES,Other sharks,sep
+2001,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+2001,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+2001,UNPROVOKED,THAILAND,Fell off banana boat,Male,NO,Other sharks,aug
+2001,UNPROVOKED,USA,Boogie boarding,Male,NO,Other sharks,jul
+2001,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+2001,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2001,PROVOKED,USA,Spearfishing,Male,NO,White shark,jun
+2001,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jun
+2001,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,may
+2001,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,may
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Surfing,Male,NO,White shark,apr
+2001,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,apr
+2001,PROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Standing alongside surfboard,Male,NO,Other sharks,apr
+2001,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2001,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+2001,BOAT,AUSTRALIA,Kayaking,Male,NO,Other sharks,jan
+2001,UNPROVOKED,CUBA,Swimming,Female,NO,Other sharks,jan
+2001,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+2001,BOAT,NEW ZEALAND,Kayaking,Male,NO,White shark,jan
+2000,UNPROVOKED,FIJI,Swimming back from anchored sailboat,Male,YES,Other sharks,dec
+2000,UNPROVOKED,CANADA,Diving for sea urchins,Male,NO,Other sharks,dec
+2000,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+2000,UNPROVOKED,AUSTRALIA,Diving (shell maintenance),Male,NO,Other sharks,nov
+2000,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,nov
+2000,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,White shark,nov
+2000,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,White shark,nov
+2000,UNPROVOKED,USA,Surfing,Male,NO,White shark,nov
+2000,UNPROVOKED,USA,Swimming / snorkeling,Female,NO,Other sharks,oct
+2000,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2000,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+2000,UNPROVOKED,USA,Sitting on surfboard,Male,NO,White shark,sep
+2000,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,sep
+2000,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,sep
+2000,PROVOKED,AUSTRALIA,Fell onto dead shark,Male,NO,Other sharks,sep
+2000,UNPROVOKED,OKINAWA,Surfing,Male,YES,White shark,sep
+2000,UNPROVOKED,USA,Swimming / Body surfing,Male,NO,Other sharks,sep
+2000,UNPROVOKED,SOUTH AFRICA,Free diving,Male,NO,White shark,sep
+2000,UNPROVOKED,TANZANIA,Swimming,Male,YES,Other sharks,sep
+2000,UNPROVOKED,USA,Wading,Male,NO,Other sharks,sep
+2000,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,sep
+2000,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+2000,UNPROVOKED,USA,Jumped into the water,Male,YES,Other sharks,aug
+2000,PROVOKED,USA,Conducting research,Male,NO,Other sharks,aug
+2000,UNPROVOKED,USA,"Windsurfing, but sitting on his board",Male,NO,Other sharks,aug
+2000,UNPROVOKED,USA,Surfing / Wading,Male,NO,Other sharks,aug
+2000,UNPROVOKED,USA,Standing,Female,NO,Other sharks,aug
+2000,UNPROVOKED,USA,Snorkeling,Female,NO,Other sharks,jul
+2000,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+2000,UNPROVOKED,TONGA,Scuba diving,Male,NO,Other sharks,jul
+2000,UNPROVOKED,USA,Jumping,Male,NO,Other sharks,jul
+2000,UNPROVOKED,USA,Playing,Female,NO,Other sharks,jul
+2000,UNPROVOKED,USA,"Spearfishing, holding mesh bag with speared fish",Female,NO,Other sharks,jul
+2000,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jul
+2000,UNPROVOKED,USA,Standing,Female,NO,Other sharks,jul
+2000,BOAT,NEW ZEALAND,Fishing,Male,NO,Other sharks,jun
+2000,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+2000,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+2000,UNPROVOKED,USA,Swimming ,Male,NO,Other sharks,jun
+2000,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,mar
+2000,UNPROVOKED,USA,Boogie boarding,Female,NO,Other sharks,mar
+2000,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+2000,UNPROVOKED,NEW CALEDONIA,Spearfishing,Male,YES,Other sharks,mar
+2000,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+2000,UNPROVOKED,SOUTH AFRICA,Body surfing,Male,NO,White shark,feb
+2000,PROVOKED,ENGLAND,Feeding prawns to captive sharks,Male,NO,Other sharks,feb
+2000,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+1999,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,Other sharks,dec
+1999,UNPROVOKED,NEW ZEALAND,Swimming,Female,NO,Other sharks,dec
+1999,UNPROVOKED,NEW ZEALAND,Bathing,Female,NO,Other sharks,dec
+1999,UNPROVOKED,BRAZIL,Surfing,Male,NO,White shark,dec
+1999,INVALID,BRAZIL,Spearfishing,Male,NO,Other sharks,dec
+1999,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,nov
+1999,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,nov
+1999,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,nov
+1999,UNPROVOKED,BRAZIL,"Spearfishing, but swimming at surface",Male,NO,Other sharks,nov
+1999,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1999,UNPROVOKED,USA,"Surfing, lying on surfboard",Male,NO,Other sharks,oct
+1999,UNPROVOKED,USA,Kayaking,Male,NO,White shark,sep
+1999,UNPROVOKED,USA,Wading,Female,NO,Other sharks,sep
+1999,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1999,PROVOKED,USA,Wading,Male,NO,Other sharks,sep
+1999,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1999,UNPROVOKED,MARSHALL ISLANDS,Fishing,Male,NO,Other sharks,aug
+1999,UNPROVOKED,USA,Lying prone in 2' of water,Male,NO,Other sharks,aug
+1999,UNPROVOKED,USA,Body surfing,Male,NO,Other sharks,aug
+1999,UNPROVOKED,BAHAMAS,Spearfishing & holding catch,Male,NO,Other sharks,aug
+1999,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+1999,UNPROVOKED,USA,Swimming with dolphins,Male,NO,Other sharks,jul
+1999,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+1999,UNPROVOKED,SOUTH AFRICA,Boogie boarding,Male,YES,White shark,jul
+1999,UNPROVOKED,USA,Wading in school of baitfish,Female,NO,Other sharks,jul
+1999,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+1999,UNPROVOKED,USA,Adrift in a life jacket,Male,NO,Other sharks,jun
+1999,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+1999,UNPROVOKED,USA,Splashing / wading,Male,NO,Other sharks,jun
+1999,UNPROVOKED,AUSTRALIA,Windsurfing,Male,YES,White shark,may
+1999,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,may
+1999,UNPROVOKED,MAURITIUS,Swimming,Female,NO,Other sharks,apr
+1999,UNPROVOKED,REUNION,Swimming after being swept into sea by a large wave,Male,YES,Other sharks,apr
+1999,UNPROVOKED,NEW ZEALAND,Spearfishing & diving for paua,Male,NO,Other sharks,mar
+1999,UNPROVOKED,NEW CALEDONIA,Spearfishing,Male,NO,Other sharks,mar
+1999,PROVOKED,NEW ZEALAND,Fishing,Male,NO,Other sharks,mar
+1999,UNPROVOKED,USA,Swimming near pod of whales,Female,NO,Other sharks,mar
+1999,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+1999,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+1999,UNPROVOKED,MAURITIUS,Spearfishing,Male,NO,Other sharks,jan
+1999,UNPROVOKED,SOUTH AFRICA,Paddle Skiing,Male,NO,White shark,jan
+1998,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,dec
+1998,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,nov
+1998,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1998,UNPROVOKED,USA,Walking,Male,NO,Other sharks,nov
+1998,UNPROVOKED,USA,Surfing,Male,NO,White shark,nov
+1998,PROVOKED,JAPAN,Fishing for tuna,Male,NO,Other sharks,nov
+1998,UNPROVOKED,BRAZIL,Surfing,Male,YES,White shark,nov
+1998,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1998,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1998,UNPROVOKED,USA,Boogie boarding,Male,NO,White shark,aug
+1998,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,aug
+1998,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+1998,UNPROVOKED,USA,Body-boarding,Male,NO,Other sharks,aug
+1998,PROVOKED,SOUTH AFRICA,Moving a shark in a net ,Male,NO,Other sharks,aug
+1998,UNPROVOKED,SOUTH AFRICA,Surfing (or body boarding),Male,NO,White shark,aug
+1998,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,aug
+1998,UNPROVOKED,SOUTH AFRICA,Wading,Male,NO,Other sharks,jul
+1998,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jul
+1998,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jul
+1998,UNPROVOKED,AUSTRALIA,Free diving for abalone,Male,YES,White shark,jun
+1998,UNPROVOKED,SOUTH AFRICA,Body Boarding,Male,YES,White shark,jun
+1998,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,may
+1998,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,Other sharks,may
+1998,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1998,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,may
+1998,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,may
+1998,UNPROVOKED,MOZAMBIQUE,Towing rubber dinghy,Female,YES,Other sharks,apr
+1998,UNPROVOKED,USA,Surfing (lying prone on his board),Male,NO,White shark,apr
+1998,PROVOKED,USA,Scuba diving,Male,NO,Other sharks,apr
+1998,UNPROVOKED,SOUTH AFRICA,Snorkeling  hunting crayfish and abalone,Male,NO,White shark,mar
+1998,UNPROVOKED,USA,Swimming or paddle boarding,Male,NO,Other sharks,mar
+1998,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,feb
+1998,UNPROVOKED,MOZAMBIQUE,Surfing,Male,NO,Other sharks,jan
+1997,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,YES,White shark,dec
+1997,UNPROVOKED,AUSTRALIA,Scuba diving (submerged riding a scooter),Male,NO,White shark,nov
+1997,UNPROVOKED,AUSTRALIA,Surf-skiing,Male,NO,White shark,oct
+1997,UNPROVOKED,USA,Body boarding or surfing,Male,NO,Other sharks,oct
+1997,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1997,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1997,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,aug
+1997,UNPROVOKED,MEXICO,SCUBA diving,Male,YES,Other sharks,aug
+1997,UNPROVOKED,EGYPT,Fishing,Male,YES,White shark,aug
+1997,UNPROVOKED,USA,Wading,Female,NO,Other sharks,aug
+1997,UNPROVOKED,USA,Wade-fishing,Male,NO,Other sharks,aug
+1997,UNPROVOKED,USA,Body surfing,Male,NO,Other sharks,aug
+1997,UNPROVOKED,USA,Wading / Surfing,Male,NO,Other sharks,aug
+1997,UNPROVOKED,SOUTH AFRICA,Surfing,Male,YES,White shark,jul
+1997,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jul
+1997,UNPROVOKED,OKINAWA,Fishing for octopus,Male,YES,White shark,jul
+1997,UNPROVOKED,USA,Spearfishing / night diving,Male,NO,Other sharks,jun
+1997,UNPROVOKED,FIJI,Snorkeling,Female,NO,Other sharks,jun
+1997,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+1997,UNPROVOKED,USA,"Body surfing, stood up on sandbar",Male,NO,Other sharks,jun
+1997,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,may
+1997,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1997,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1997,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,may
+1997,UNPROVOKED,BRAZIL,Windsurfing,Male,NO,White shark,apr
+1997,UNPROVOKED,AUSTRALIA,Swimming,Female,NO,Other sharks,feb
+1997,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,feb
+1997,UNPROVOKED,AUSTRALIA,Snorkeling,Male,NO,Other sharks,jan
+1997,UNPROVOKED,AUSTRALIA,Windsurfing,Male,YES,Other sharks,jan
+1997,UNPROVOKED,REUNION,Spearfishing,Male,YES,Other sharks,jan
+1996,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,dec
+1996,UNPROVOKED,USA,Surfing,Male,NO,White shark,nov
+1996,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1996,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1996,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1996,UNPROVOKED,NEW ZEALAND,Diving for abalone,Male,NO,White shark,sep
+1996,UNPROVOKED,USA,Surfing / Swimming,Male,NO,Other sharks,sep
+1996,PROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,sep
+1996,UNPROVOKED,USA,Body Boarding,Male,NO,Other sharks,aug
+1996,UNPROVOKED,USA,Free diving for abalone,Male,NO,White shark,aug
+1996,UNPROVOKED,USA,Wade fishing,Male,NO,Other sharks,aug
+1996,UNPROVOKED,OKINAWA,Swimming,Male,YES,White shark,jul
+1996,UNPROVOKED,EGYPT / ISRAEL,Free diving with a pod of dolphins,Male,NO,White shark,jul
+1996,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+1996,UNPROVOKED,USA,Standing,Female,NO,Other sharks,jul
+1996,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,jun
+1996,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,may
+1996,INVALID,AUSTRALIA,Tech diving ,Male,YES,Other sharks,may
+1996,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1996,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1996,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,apr
+1996,UNPROVOKED,AUSTRALIA,Swimming,Female,NO,Other sharks,apr
+1996,UNPROVOKED,AUSTRALIA,Swimming breast stoke,Female,NO,Other sharks,mar
+1996,UNPROVOKED,AUSTRALIA,Dived naked into the water on a bet,Male,NO,Other sharks,feb
+1996,PROVOKED,USA,Swimming in fish tank,Female,NO,Other sharks,feb
+1996,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,feb
+1996,PROVOKED,USA,Wading,Male,NO,Other sharks,jan
+1996,UNPROVOKED,AUSTRALIA,Swimming,Female,NO,Other sharks,jan
+1996,UNPROVOKED,USA,Swimming with mask & snorkel,Male,NO,Other sharks,jan
+1996,UNPROVOKED,REUNION,Surfing,Male,YES,Other sharks,jan
+1995,UNPROVOKED,NEW ZEALAND,"Diving, gathering shellfish",Male,NO,White shark,nov
+1995,UNPROVOKED,AUSTRALIA,Playing / standing,Female,NO,Other sharks,oct
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1995,UNPROVOKED,USA,Windsurfing,Male,NO,White shark,sep
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1995,UNPROVOKED,USA,Scuba diving,Male,YES,Other sharks,sep
+1995,UNPROVOKED,AUSTRALIA,Abalone diving using Hookah (near calving whales),Male,YES,White shark,sep
+1995,UNPROVOKED,USA,Abalone diving using Hookah (resting on the surface),Male,NO,White shark,sep
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Swimming ,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1995,UNPROVOKED,TONGA,Fishing,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Wading,Male,NO,Other sharks,aug
+1995,UNPROVOKED,USA,"""Riding waves on a board""",Female,NO,Other sharks,aug
+1995,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,aug
+1995,PROVOKED,USA,Fishing,Female,NO,Other sharks,jul
+1995,UNPROVOKED,USA,Scuba diving (ascending using scooter),Male,NO,White shark,jun
+1995,UNPROVOKED,USA,Kayaking,Female,NO,White shark,jun
+1995,UNPROVOKED,USA,Playing / jumping,Male,NO,Other sharks,jun
+1995,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+1995,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jun
+1995,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+1995,UNPROVOKED,HONG KONG,Swimming,Female,YES,Other sharks,jun
+1995,UNPROVOKED,HONG KONG,Swimming,Male,YES,Other sharks,jun
+1995,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1995,UNPROVOKED,FIJI,Sleeping in anchored boat,Male,YES,Other sharks,may
+1995,UNPROVOKED,SOUTH KOREA,Diving for abalone,Female,YES,Other sharks,may
+1995,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,apr
+1995,UNPROVOKED,JAPAN,Scuba diving for bivalves,Male,YES,White shark,apr
+1995,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+1995,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,feb
+1995,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,Other sharks,jan
+1995,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,jan
+1994,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,dec
+1994,UNPROVOKED,USA,Commercial diver (submerged or treading water),Male,YES,White shark,dec
+1994,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,nov
+1994,UNPROVOKED,USA,"Surfing, paddling seawards",Female,NO,Other sharks,nov
+1994,PROVOKED,USA,Wading,Female,NO,Other sharks,oct
+1994,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+1994,UNPROVOKED,USA,Jumped off rocks into white water,Female,NO,Other sharks,sep
+1994,UNPROVOKED,REUNION,Windsurfing,Male,YES,Other sharks,jul
+1994,UNPROVOKED,SOUTH AFRICA,Surfing,Male,YES,White shark,jul
+1994,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+1994,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+1994,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jun
+1994,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1994,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,may
+1994,UNPROVOKED,USA,Wading,Female,NO,Other sharks,may
+1994,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,may
+1994,UNPROVOKED,BAHAMAS,Wading,Male,NO,Other sharks,apr
+1994,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,YES,White shark,apr
+1994,UNPROVOKED,CHILE,Swimming alongside NOAA research vessel Discoverer,Female,NO,White shark,mar
+1994,UNPROVOKED,CHILE,Swimming alongside NOAA research vessel Discoverer,Male,NO,White shark,mar
+1994,PROVOKED,USA,Removing shark from tank in nightclub ,Male,NO,Other sharks,mar
+1994,UNPROVOKED,BRAZIL,Surfing,Male,NO,Other sharks,mar
+1994,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,feb
+1994,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+1994,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,feb
+1994,UNPROVOKED,USA,Surfing,Male,YES,Other sharks,jan
+1994,UNPROVOKED,AUSTRALIA,"Swimming, after falling off towed kneeboard",Male,NO,Other sharks,jan
+1994,UNPROVOKED,SOUTH AFRICA,Swimming ,Male,NO,Other sharks,jan
+1993,UNPROVOKED,AUSTRALIA,Hookah diving,Male,YES,Other sharks,nov
+1993,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1993,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,oct
+1993,BOAT,USA,Kayaking,Female,NO,White shark,oct
+1993,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,sep
+1993,UNPROVOKED,USA,Wading,Male,NO,Other sharks,sep
+1993,UNPROVOKED,SPAIN,Swimming,Male,NO,Other sharks,sep
+1993,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,aug
+1993,UNPROVOKED,USA,Riding floatation device,Female,NO,Other sharks,aug
+1993,UNPROVOKED,USA,Free diving for abalone (ascending),Male,NO,White shark,aug
+1993,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+1993,UNPROVOKED,USA,Playing,Female,NO,Other sharks,jul
+1993,UNPROVOKED,USA,Paddling on surfboard or body board,Male,NO,Other sharks,jun
+1993,UNPROVOKED,AUSTRALIA,Scuba diving,Male,YES,White shark,jun
+1993,UNPROVOKED,AUSTRALIA,Scuba diving at seal colony,Female,YES,White shark,jun
+1993,UNPROVOKED,USA,Paddling on surfboard,Male,NO,Other sharks,mar
+1993,UNPROVOKED,USA,Free diving & spearfishing (ascending),Male,NO,White shark,mar
+1993,SEA DISASTER,TONGA,Sea disaster,Male,NO,Other sharks,feb
+1993,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jan
+1993,BOAT,,   ,Male,NO,White shark,jan
+1993,UNPROVOKED,USA,Surfing,Male,NO,White shark,jan
+1992,UNPROVOKED,USA,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",Male,NO,Other sharks,dec
+1992,UNPROVOKED,USA,Lying on surfboard,Male,NO,Other sharks,dec
+1992,UNPROVOKED,USA,Spearfishing / free diving,Male,NO,Other sharks,nov
+1992,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1992,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1992,BOAT,USA,Kayaking,Male,NO,White shark,nov
+1992,UNPROVOKED,FIJI,Scuba diving,Male,NO,Other sharks,nov
+1992,UNPROVOKED,USA,Scuba diving (submerged),Male,NO,Other sharks,nov
+1992,UNPROVOKED,USA,Body boarding,Male,YES,Other sharks,nov
+1992,UNPROVOKED,USA,Hookah diving for sea urchins,Male,NO,White shark,oct
+1992,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1992,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,oct
+1992,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,oct
+1992,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+1992,UNPROVOKED,BAHAMAS,"Snorkeling, carrying a speared fish in her hand",Female,NO,Other sharks,aug
+1992,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,aug
+1992,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+1992,PROVOKED,USA,Snorkeling,Male,NO,Other sharks,aug
+1992,UNPROVOKED,USA,Standing,Female,NO,Other sharks,jul
+1992,UNPROVOKED,REUNION,Surfing,Male,YES,Other sharks,jun
+1992,UNPROVOKED,REUNION,Surfing,Male,YES,Other sharks,may
+1992,UNPROVOKED,NEW ZEALAND,Snorkeling,Male,NO,White shark,apr
+1992,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,apr
+1992,UNPROVOKED,USA,"Surfing, paddling seawards",Female,NO,Other sharks,mar
+1992,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+1992,UNPROVOKED,JAPAN,Hookah diving for pen shells ,Male,YES,White shark,mar
+1992,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,mar
+1992,UNPROVOKED,USA,Body boarding,Male,YES,Other sharks,feb
+1992,UNPROVOKED,JAPAN,Diving for pen shells,Male,NO,Other sharks,feb
+1992,UNPROVOKED,REUNION,Spearfishing,Male,NO,Other sharks,jan
+1992,UNPROVOKED,AUSTRALIA,Boogie boarding,Male,NO,Other sharks,jan
+1992,UNPROVOKED,SOUTH AFRICA,Swimming ,Male,NO,Other sharks,jan
+1992,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,jan
+1992,UNPROVOKED,MAURITIUS,Fishing,Male,NO,Other sharks,jan
+1991,UNPROVOKED,USA,Hookah diving for sea urchins,Male,NO,White shark,dec
+1991,UNPROVOKED,USA,Snorkeling,Female,YES,Other sharks,nov
+1991,UNPROVOKED,USA,Snorkeling,Female,NO,Other sharks,nov
+1991,UNPROVOKED,USA,"Fishing from rocks, swept out to sea by large wave & treading water",Male,YES,Other sharks,nov
+1991,PROVOKED,USA,Fishing,Male,NO,Other sharks,nov
+1991,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1991,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1991,UNPROVOKED,AUSTRALIA,Scuba diving,Male,YES,White shark,sep
+1991,PROVOKED,AUSTRALIA,Finning the shark that bit him,Male,NO,Other sharks,aug
+1991,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+1991,UNPROVOKED,USA,Wading,Female,NO,Other sharks,aug
+1991,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+1991,BOAT,ITALY,Canoeing,Female,NO,White shark,jul
+1991,UNPROVOKED,USA,Snorkeling,Male,NO,Other sharks,jul
+1991,UNPROVOKED,USA,Swimming from makeshift raft  to life vest after fishing boat sank,Male,NO,Other sharks,jul
+1991,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,jul
+1991,UNPROVOKED,USA,Surfing,Male,NO,White shark,jul
+1991,UNPROVOKED,USA,Swimming behind sailboat,Male,NO,Other sharks,jun
+1991,UNPROVOKED,HONG KONG,Swimming ,Female,YES,Other sharks,jun
+1991,UNPROVOKED,USA,Sitting on surfboard,Male,NO,Other sharks,may
+1991,UNPROVOKED,SOUTH AFRICA,Scuba diving,Male,NO,White shark,may
+1991,UNPROVOKED,USA,"Surfing, collided with shark",Male,NO,Other sharks,apr
+1991,UNPROVOKED,USA,Sitting on surfboard,Male,NO,Other sharks,apr
+1991,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,mar
+1991,UNPROVOKED,USA,Surfing,Male,NO,White shark,feb
+1991,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,feb
+1991,UNPROVOKED,AUSTRALIA,Surf-skiing,Male,NO,Other sharks,jan
+1990,UNPROVOKED,AUSTRALIA,Swimming ,Male,NO,Other sharks,nov
+1990,UNPROVOKED,USA,Scuba diving (but on surface),Female,NO,White shark,nov
+1990,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1990,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1990,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1990,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1990,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1990,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,sep
+1990,UNPROVOKED,USA,"Free diving / spearfishing, from paddleboard & floating on the surface",Male,NO,White shark,sep
+1990,BOAT,USA,Kayaking,Male,NO,White shark,sep
+1990,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+1990,UNPROVOKED,SOUTH AFRICA,Scuba diving (but on surface),Female,YES,White shark,jun
+1990,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jun
+1990,UNPROVOKED,AUSTRALIA,Snorkeling,Female,NO,Other sharks,may
+1990,UNPROVOKED,AUSTRALIA,"Snorkeling, possibly holding a fish",Male,NO,Other sharks,may
+1990,UNPROVOKED,SOUTH AFRICA,Resting on surfboard,Male,NO,White shark,may
+1990,UNPROVOKED,SOUTH AFRICA,Lying on surfboard & paddling,Male,NO,White shark,apr
+1990,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+1990,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+1990,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+1990,UNPROVOKED,REUNION,Surfing,Male,NO,Other sharks,mar
+1990,UNPROVOKED,USA,Scuba diving & spearfishing,Male,YES,Other sharks,feb
+1990,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,jan
+1989,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,nov
+1989,UNPROVOKED,SOUTH AFRICA,Free diving & spearfishing,Male,YES,White shark,nov
+1989,UNPROVOKED,AUSTRALIA,Swimming in canal,Male,NO,Other sharks,nov
+1989,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,oct
+1989,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1989,UNPROVOKED,SOUTH AFRICA,Free diving,Male,NO,White shark,sep
+1989,PROVOKED,USA,"Fishing, stepped on hooked shark's head",Male,NO,Other sharks,sep
+1989,UNPROVOKED,USA,Hookah diving for abalone (descending),Male,NO,White shark,sep
+1989,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1989,PROVOKED,USA,Filming 5' blue shark,Male,NO,Other sharks,sep
+1989,PROVOKED,AUSTRALIA,Feeding fish,Male,NO,Other sharks,aug
+1989,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+1989,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,aug
+1989,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,aug
+1989,PROVOKED,AUSTRALIA,Fishing for sharks,Male,NO,White shark,aug
+1989,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jul
+1989,UNPROVOKED,USA,Playing ,Female,NO,Other sharks,jul
+1989,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,jun
+1989,UNPROVOKED,ITALY,Windsurfing (urinating on his board),Male,NO,White shark,jun
+1989,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jun
+1989,UNPROVOKED,SOUTH AFRICA,Free diving,Male,NO,White shark,jun
+1989,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,apr
+1989,UNPROVOKED,USA,Surfing (lying prone on his board),Male,NO,White shark,apr
+1989,UNPROVOKED,AUSTRALIA,Surfing,Male,YES,White shark,mar
+1989,BOAT,AUSTRALIA,Kayaking,Male,NO,Other sharks,mar
+1989,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,feb
+1989,UNPROVOKED,ITALY,"Scuba diving, but swimming on surface",Male,YES,White shark,feb
+1989,UNPROVOKED,USA,Kayaking,Female,YES,White shark,jan
+1989,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,jan
+1989,UNPROVOKED,AUSTRALIA,Surfing with dolphins,Male,NO,Other sharks,jan
+1988,UNPROVOKED,CHILE,Skindiving,Male,YES,White shark,dec
+1988,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,oct
+1988,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+1988,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1988,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1988,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1988,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1988,UNPROVOKED,USA,Walking,Female,NO,Other sharks,sep
+1988,UNPROVOKED,USA,Snorkeling,Male,YES,Other sharks,sep
+1988,PROVOKED,USA,Diving in Sharkey's Reef restaurants aquarium,Male,NO,Other sharks,aug
+1988,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+1988,UNPROVOKED,BAHAMAS,Free diving & spearfishing ,Male,NO,Other sharks,jul
+1988,UNPROVOKED,BAHAMAS,Spearfishing on scuba,Male,NO,Other sharks,jul
+1988,UNPROVOKED,BAHAMAS,Diving,Male,NO,Other sharks,jul
+1988,UNPROVOKED,BAHAMAS,Snorkeling,Male,NO,Other sharks,jul
+1988,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,jun
+1988,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,jun
+1988,UNPROVOKED,USA,Sittting in water with his child,Male,NO,Other sharks,jun
+1988,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+1988,UNPROVOKED,USA,Surfing,Male,NO,White shark,apr
+1988,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,mar
+1988,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,feb
+1988,UNPROVOKED,SOUTH AFRICA,Lying atop surfboard,Female,NO,Other sharks,feb
+1988,UNPROVOKED,FIJI,Diving,Male,NO,Other sharks,feb
+1988,PROVOKED,USA,Fishing,Male,NO,Other sharks,jan
+1988,PROVOKED,SOUTH AFRICA,Attempting to lasso shark's tail,Male,NO,Other sharks,jan
+1987,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,dec
+1987,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1987,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,oct
+1987,UNPROVOKED,AUSTRALIA,Scuba Diving for scallops,Male,YES,White shark,sep
+1987,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,sep
+1987,UNPROVOKED,USA,Wading,Male,NO,Other sharks,aug
+1987,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,aug
+1987,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jul
+1987,UNPROVOKED,USA,Body surfing,Female,NO,Other sharks,jul
+1987,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jul
+1987,PROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+1987,UNPROVOKED,VANUATU,Swimming,Male,YES,Other sharks,apr
+1987,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+1987,UNPROVOKED,USA,Windsurfing,Male,NO,Other sharks,feb
+1987,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,jan
+1986,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,dec
+1986,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,YES,White shark,dec
+1986,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,dec
+1986,UNPROVOKED,USA,Free diving  & spearfishing (submerged),Male,NO,White shark,dec
+1986,PROVOKED,SOUTH AFRICA,NSB Meshing,Male,NO,Other sharks,oct
+1986,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,oct
+1986,UNPROVOKED,SOUTH AFRICA,Racing ski,Male,NO,Other sharks,oct
+1986,UNPROVOKED,AUSTRALIA,Scuba diving,Female,NO,Other sharks,aug
+1986,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,may
+1986,UNPROVOKED,SPAIN,Windsurfing,Male,NO,White shark,mar
+1986,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,mar
+1986,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,mar
+1986,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,feb
+1986,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,feb
+1986,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,feb
+1986,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+1986,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+1985,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,nov
+1985,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,oct
+1985,UNPROVOKED,USA,Hookah diving for abalone,Male,NO,Other sharks,oct
+1985,UNPROVOKED,USA,Body boarding,Male,NO,Other sharks,oct
+1985,UNPROVOKED,USA,Floating on inner tube after diving for lobster,Male,NO,Other sharks,oct
+1985,PROVOKED,USA,Fishing,Male,NO,Other sharks,oct
+1985,UNPROVOKED,USA,Free diving & spearfishing (descending),Male,NO,White shark,sep
+1985,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,sep
+1985,UNPROVOKED,USA,Wading,Female,NO,Other sharks,jul
+1985,UNPROVOKED,USA,Playing in knee-deep water,Female,NO,Other sharks,jul
+1985,UNPROVOKED,USA,"Surfing, but lying prone on his board",Male,NO,Other sharks,may
+1985,PROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,may
+1985,UNPROVOKED,AUSTRALIA,Free diving for scallops,Female,YES,White shark,mar
+1985,UNPROVOKED,USA,Scuba Diving for lobster (at surface),Male,NO,White shark,feb
+1985,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1985,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jan
+1985,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,jan
+1984,UNPROVOKED,AUSTRALIA,Sailing on catamaran & fell into the water,Male,YES,Other sharks,nov
+1984,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1984,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,nov
+1984,UNPROVOKED,USA,Surfing or body surfing,Female,NO,Other sharks,oct
+1984,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1984,UNPROVOKED,USA,Surfing (sitting on his board),Male,NO,White shark,sep
+1984,UNPROVOKED,USA,"Free diving , but surfacing",Male,NO,White shark,sep
+1984,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1984,UNPROVOKED,USA,Wading,Male,NO,Other sharks,sep
+1984,UNPROVOKED,USA,Skindiving,Male,YES,White shark,sep
+1984,PROVOKED,MEXICO,Spearfishing,Male,NO,White shark,sep
+1984,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+1984,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jun
+1984,UNPROVOKED,USA,Towing her sister on plastic ski board,Female,NO,Other sharks,jun
+1984,BOAT,SOUTH AFRICA,Rowing,Male,NO,Other sharks,mar
+1984,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,feb
+1984,PROVOKED,SOUTH AFRICA,Scuba diving,Male,NO,Other sharks,feb
+1984,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,White shark,feb
+1984,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1983,UNPROVOKED,AUSTRALIA,Scuba diving for abalone,Male,NO,White shark,dec
+1983,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,dec
+1983,SEA DISASTER,PHILIPPINES,Ferry boat sank,Male,NO,Other sharks,nov
+1983,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1983,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1983,UNPROVOKED,USA,Wading,Male,NO,Other sharks,oct
+1983,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+1983,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,aug
+1983,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,aug
+1983,PROVOKED,USA,Skindiving,Male,NO,Other sharks,aug
+1983,UNPROVOKED,USA,Diving,Female,NO,Other sharks,aug
+1983,SEA DISASTER,AUSTRALIA,Swimming from the New Venture ,Female,YES,Other sharks,jul
+1983,SEA DISASTER,AUSTRALIA,Swimming from the New Venture ,Male,YES,Other sharks,jul
+1983,SEA DISASTER,AUSTRALIA,14 m prawn trawler New Venture capsized  & sank in heavy seas Three people in the water,Male,NO,Other sharks,jul
+1983,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jul
+1983,UNPROVOKED,USA,Windsurfing,Female,NO,Other sharks,jul
+1983,UNPROVOKED,USA,Water-skiing,Male,NO,Other sharks,may
+1983,UNPROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,apr
+1983,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,mar
+1983,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,mar
+1983,UNPROVOKED,SOUTH AFRICA,Paddleskiing,Male,NO,Other sharks,feb
+1983,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,jan
+1982,UNPROVOKED,USA,Windsurfing,Male,NO,Other sharks,oct
+1982,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,sep
+1982,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1982,UNPROVOKED,USA,Diving,Male,NO,White shark,sep
+1982,UNPROVOKED,USA,Free diving for abalone from Zodiac (submerged),Male,NO,White shark,sep
+1982,UNPROVOKED,SOUTH AFRICA,Paddleskiing,Male,NO,White shark,jul
+1982,UNPROVOKED,USA,Paddle Boarding,Male,NO,White shark,jul
+1982,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+1982,UNPROVOKED,SOUTH AFRICA,Surfing,Male,YES,White shark,jun
+1982,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+1982,UNPROVOKED,BAHAMAS,Spearfishing ,Male,NO,Other sharks,jun
+1982,UNPROVOKED,USA,"Sailboarding, fell into water 100 yards outside the breakwater",Male,NO,Other sharks,jun
+1982,UNPROVOKED,AUSTRALIA,Spearfishing,Male,YES,White shark,feb
+1982,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+1982,UNPROVOKED,USA,Scuba diving (submerged),Male,NO,White shark,feb
+1982,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1981,UNPROVOKED,USA,Surfing,Male,YES,White shark,dec
+1981,UNPROVOKED,USA,"Spearfishing, but swimming on surface",Male,NO,Other sharks,dec
+1981,PROVOKED,SOUTH AFRICA,Inspecting teeth of supposedly dead (hooked & shot) shark,Male,NO,White shark,oct
+1981,UNPROVOKED,USA,Diving to untangle a crab trap line from boat's propeller,Male,NO,Other sharks,nov
+1981,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,oct
+1981,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1981,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,sep
+1981,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1981,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,aug
+1981,UNPROVOKED,USA,Diving,Male,NO,Other sharks,aug
+1981,UNPROVOKED,BAHAMAS,Snorkeling on surface,Male,NO,Other sharks,aug
+1981,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+1981,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jul
+1981,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,jul
+1981,UNPROVOKED,SOUTH AFRICA,Catching sardines,Male,NO,Other sharks,jul
+1981,BOAT,ENGLAND,Fishing,Male,NO,Other sharks,jun
+1981,UNPROVOKED,SOUTH KOREA,Shell diving,Female,YES,White shark,may
+1981,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,may
+1981,UNPROVOKED,USA,Diving,Male,NO,Other sharks,may
+1981,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,may
+1981,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,may
+1981,UNPROVOKED,USA,Standing / Wading,Male,NO,Other sharks,mar
+1981,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+1981,UNPROVOKED,CHILE,Free diving Spearfishing,Male,NO,White shark,mar
+1981,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,feb
+1981,UNPROVOKED,AUSTRALIA,Exercising his dog in the shallows,Male,NO,Other sharks,feb
+1981,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,feb
+1981,UNPROVOKED,USA,Commercial spearfishing,Male,NO,Other sharks,jan
+1980,UNPROVOKED,REUNION,Spearfishing,Male,NO,White shark,nov
+1980,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1980,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1980,UNPROVOKED,USA,Resting on body board,Male,NO,Other sharks,aug
+1980,UNPROVOKED,SPAIN,Skin diving,Male,NO,Other sharks,jul
+1980,UNPROVOKED,USA,Standing,Female,NO,Other sharks,jul
+1980,PROVOKED,USA,Scuba diving,Female,NO,Other sharks,jun
+1980,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,may
+1980,UNPROVOKED,SOUTH AFRICA,Free diving,Male,YES,Other sharks,mar
+1980,UNPROVOKED,BRAZIL,Swimming,Male,NO,Other sharks,mar
+1980,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,mar
+1980,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,jan
+1980,UNPROVOKED,KENYA,Spearfishing,Male,NO,Other sharks,jan
+1980,PROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,jan
+1980,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1980,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1980,UNPROVOKED,CHILE,Hookah Diving,Male,YES,White shark,jan
+1979,INVALID,PORTUGAL,Spearfishing,Male,YES,White shark,dec
+1979,UNPROVOKED,,Diving,Male,NO,Other sharks,dec
+1979,UNPROVOKED,USA,Surfing,Male,NO,White shark,nov
+1979,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,oct
+1979,UNPROVOKED,AUSTRALIA,Scuba diving,Male,NO,Other sharks,sep
+1979,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,mar
+1979,UNPROVOKED,USA,Scuba diving (submerged),Male,NO,White shark,mar
+1979,UNPROVOKED,SOUTH AFRICA,"Surfing, collided with shark",Male,NO,Other sharks,feb
+1978,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,YES,White shark,dec
+1978,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1978,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,sep
+1978,UNPROVOKED,ITALY,Diving,Male,NO,White shark,sep
+1978,UNPROVOKED,AUSTRALIA,Scuba diving for abalone,Male,NO,Other sharks,sep
+1978,UNPROVOKED,USA,Wading,Male,NO,Other sharks,aug
+1978,UNPROVOKED,SOUTH AFRICA,Diving,Male,NO,White shark,feb
+1978,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,jan
+1977,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,dec
+1977,PROVOKED,SOUTH AFRICA,Standing,Male,NO,Other sharks,nov
+1977,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,oct
+1977,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,aug
+1977,BOAT,SOUTH AFRICA,Fishing,Male,NO,White shark,aug
+1977,UNPROVOKED,USA,Free diving for abalone (surfacing),Male,NO,White shark,aug
+1977,PROVOKED,USA,Spearfishing / Scuba diving,Male,NO,Other sharks,jun
+1977,UNPROVOKED,USA,Collecting fish from net,Male,NO,Other sharks,jun
+1977,BOAT,SOUTH AFRICA,Fishing for yellowtail,Male,NO,Other sharks,may
+1977,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,apr
+1977,UNPROVOKED,AUSTRALIA,"Pushed surfmat of a young girl out of the shark's path, drawing shark's attention to his own board",Male,NO,Other sharks,feb
+1976,UNPROVOKED,USA,Hookah diving for abalone (submerged),Male,NO,White shark,dec
+1976,UNPROVOKED,SOUTH AFRICA,"Thrashing the water / imitating the shark victim from ""Jaws""",Male,NO,White shark,nov
+1976,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1976,UNPROVOKED,USA,Surfing,Male,NO,White shark,oct
+1976,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,oct
+1976,UNPROVOKED,AUSTRALIA,"Skindiving,",Male,NO,Other sharks,sep
+1976,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,sep
+1976,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+1976,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,jul
+1976,UNPROVOKED,USA,Skindiving,Male,NO,Other sharks,jun
+1976,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+1976,PROVOKED,ITALY,Fishing,Male,NO,Other sharks,jun
+1976,BOAT,AUSTRALIA,Sitting in bow of her father's 5 m boat,Female,NO,Other sharks,jun
+1976,UNPROVOKED,USA,Spearfishing / scuba diving,Male,NO,Other sharks,jan
+1976,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,YES,Other sharks,jan
+1975,UNPROVOKED,USA,Scuba diving & spearfishing,Male,NO,White shark,dec
+1975,PROVOKED,AUSTRALIA,Filming & feeding captive sharks,Male,NO,Other sharks,dec
+1975,UNPROVOKED,AUSTRALIA,Standing,Male,NO,Other sharks,nov
+1975,UNPROVOKED,SOUTH AFRICA,Standing,Male,NO,Other sharks,nov
+1975,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,nov
+1975,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+1975,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,aug
+1975,UNPROVOKED,USA,Floating on a small orange raft ,Male,NO,Other sharks,aug
+1975,UNPROVOKED,USA,Free diving for abalone,Male,NO,White shark,aug
+1975,UNPROVOKED,AUSTRALIA,Scuba diving for abalone,Male,YES,White shark,jul
+1975,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jul
+1975,UNPROVOKED,USA,Scuba diving for abalone (at surface),Male,NO,White shark,jul
+1975,UNPROVOKED,USA,Hookah diving for abalone,Male,NO,White shark,jul
+1975,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,jul
+1975,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jul
+1975,UNPROVOKED,USA,Swimming ,Male,NO,Other sharks,jun
+1975,UNPROVOKED,SOUTH AFRICA,Spearfishing Competition,Male,NO,White shark,apr
+1975,UNPROVOKED,USA,Floating in inner tube,Male,NO,Other sharks,mar
+1975,PROVOKED,SOUTH AFRICA,Attempting to drag hooked shark ashore by its tail,Male,NO,Other sharks,mar
+1975,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,feb
+1975,UNPROVOKED,AUSTRALIA,Swimming underwater from crayfish cage to a fishing bait,Male,YES,White shark,feb
+1975,UNPROVOKED,AUSTRALIA,Crayfishing,Male,NO,Other sharks,feb
+1975,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,feb
+1974,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+1974,UNPROVOKED,USA,Hookah diving for abalone,Male,NO,White shark,sep
+1974,UNPROVOKED,ISRAEL,Swimming,Female,NO,Other sharks,sep
+1974,UNPROVOKED,USA,Scuba diving (but on surface),Male,NO,White shark,sep
+1974,UNPROVOKED,USA,Scuba diving (but on surface),Male,NO,White shark,sep
+1974,UNPROVOKED,USA,Surfing,Male,NO,White shark,aug
+1974,UNPROVOKED,USA,Free diving for abalone (submerged),Male,NO,White shark,jul
+1974,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,jul
+1974,SEA DISASTER,USA,Adrift after the sinking of the motor yacht Princess Dianne,Male,YES,Other sharks,jul
+1974,UNPROVOKED,USA,Free diving (but on surface),Male,NO,White shark,may
+1974,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,apr
+1974,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,apr
+1974,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,mar
+1974,UNPROVOKED,SOUTH AFRICA,Sitting,Male,NO,Other sharks,jan
+1974,UNPROVOKED,AUSTRALIA,Diving for abalone,Male,YES,White shark,jan
+1974,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1973,UNPROVOKED,BAHAMAS,"Free diving, Spearfishing",Male,NO,Other sharks,sep
+1973,UNPROVOKED,MEXICO,"Free diving, Spearfishing",Male,YES,White shark,sep
+1973,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,aug
+1973,UNPROVOKED,USA,Crabbing (spearing crabs),Male,NO,Other sharks,aug
+1973,PROVOKED,SOUTH AFRICA,Fishing from paddleski,Male,NO,Other sharks,jan
+1973,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jan
+1972,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,dec
+1972,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,dec
+1972,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,oct
+1972,UNPROVOKED,USA,Scuba diving,Male,YES,White shark,oct
+1972,UNPROVOKED,USA,Surfing,Male,NO,White shark,sep
+1972,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,aug
+1972,UNPROVOKED,AUSTRALIA,Diving for abalone,Male,NO,White shark,aug
+1972,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,jun
+1972,UNPROVOKED,USA,Free diving for abalone,Male,NO,White shark,may
+1972,UNPROVOKED,FRENCH POLYNESIA,Spearfishing,Male,NO,Other sharks,may
+1972,UNPROVOKED,WESTERN SAMOA,Swimming,Male,YES,Other sharks,apr
+1972,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,feb
+1972,UNPROVOKED,SOUTH AFRICA,Sitting in shallows,Female,NO,Other sharks,jan
+1972,UNPROVOKED,MOZAMBIQUE,Standing,Male,NO,White shark,jan
+1971,UNPROVOKED,SOUTH AFRICA,Swimming,Female,NO,White shark,dec
+1971,UNPROVOKED,USA,Surfing,Male,NO,Other sharks,oct
+1971,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,oct
+1971,UNPROVOKED,USA,Scuba diving,Male,NO,White shark,oct
+1971,UNPROVOKED,CROATIA,Swimming,Male,YES,White shark,sep
+1971,PROVOKED,AUSTRALIA,Scuba diving & feeding fish,Male,NO,Other sharks,aug
+1971,UNPROVOKED,USA,Hookah diving (submerged),Male,NO,White shark,jul
+1971,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,White shark,jun
+1971,UNPROVOKED,BRITISH ISLES,Scuba diving,Male,NO,Other sharks,jun
+1971,UNPROVOKED,KENYA,Swimming,Male,NO,Other sharks,apr
+1971,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,apr
+1971,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,White shark,mar
+1970,UNPROVOKED,MICRONESIA,Fishing,Male,NO,Other sharks,dec
+1970,UNPROVOKED,MICRONESIA,Diving,Male,NO,Other sharks,sep
+1970,PROVOKED,PALAU,Spearfishing,Male,NO,Other sharks,sep
+1970,PROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+1970,PROVOKED,SOUTH AFRICA,Scuba Diving,Male,NO,Other sharks,jun
+1970,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,jan
+1970,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,jan
+1970,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,jan
+1970,UNPROVOKED,ENGLAND,Attempted to return injured shark to the sea,Male,NO,Other sharks,jan
+1969,UNPROVOKED,USA,Scuba diving for lobsters,Male,NO,Other sharks,nov
+1969,UNPROVOKED,USA,Diving,Male,NO,White shark,oct
+1969,UNPROVOKED,USA,Free diving for abalone,Male,NO,White shark,sep
+1969,UNPROVOKED,USA,Body surfing,Male,NO,Other sharks,aug
+1969,UNPROVOKED,USA,Freediving for abalone (at surface),Male,NO,White shark,jul
+1969,PROVOKED,USA,Surf-fishing,Male,NO,Other sharks,may
+1969,PROVOKED,USA,Diving,Male,NO,Other sharks,may
+1969,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+1969,UNPROVOKED,USA,Surfing,Male,NO,White shark,mar
+1969,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,feb
+1968,PROVOKED,AUSTRALIA,Feeding mullet to sharks,Male,NO,Other sharks,dec
+1968,UNPROVOKED,NEW ZEALAND,Surfing,Male,NO,White shark,dec
+1968,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,dec
+1968,BOAT,SOUTH AFRICA,Fishing,Male,NO,Other sharks,nov
+1968,UNPROVOKED,USA,Spearfishing using Scuba,Male,NO,Other sharks,oct
+1968,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,YES,White shark,sep
+1968,UNPROVOKED,COLUMBIA,Dynamite fishing,Male,NO,Other sharks,aug
+1968,UNPROVOKED,USA,Free diving,Male,NO,White shark,jul
+1968,UNPROVOKED,USA,Spearfishing using Scuba,Male,NO,Other sharks,jul
+1968,UNPROVOKED,BAHAMAS,Spearfishing,Male,NO,Other sharks,jun
+1968,UNPROVOKED,AUSTRALIA,"Diving. Shark swallowed his hand, so he threw his other around the shark and went shark-back riding for 30 yards until the shark opened its jaws",Male,NO,Other sharks,apr
+1968,UNPROVOKED,SOUTH AFRICA,Wading & pushing dinghy toward  the shallows,Male,NO,Other sharks,mar
+1968,PROVOKED,NEW ZEALAND,Picking up shark by the tail,Female,NO,Other sharks,feb
+1968,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,feb
+1967,UNPROVOKED,SOUTH AFRICA,Surfing,Male,NO,Other sharks,dec
+1967,PROVOKED,AUSTRALIA,Freediving,Male,NO,Other sharks,nov
+1967,UNPROVOKED,USA,Standing on sandbar,Male,NO,Other sharks,oct
+1967,UNPROVOKED,PAPUA NEW GUINEA,Spearfishing,Male,YES,Other sharks,sep
+1967,PROVOKED,USA,Pulling shark from the water,Male,NO,Other sharks,aug
+1967,UNPROVOKED,AUSTRALIA,"Spearfishing, dived to pick up a float line",Male,YES,White shark,aug
+1967,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,aug
+1967,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,jun
+1967,PROVOKED,AUSTRALIA,Feeding a shark,Male,NO,Other sharks,may
+1967,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,mar
+1967,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,mar
+1967,UNPROVOKED,NEW ZEALAND,Lifesaving drill,Male,YES,White shark,mar
+1967,PROVOKED,SOUTH AFRICA,Spearfishing Competition,Male,NO,Other sharks,jan
+1967,PROVOKED,AUSTRALIA,Splashing,Male,NO,Other sharks,jan
+1966,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,dec
+1966,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+1966,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+1966,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+1966,UNPROVOKED,PAPUA NEW GUINEA,Swimming,Female,YES,Other sharks,oct
+1966,UNPROVOKED,PAPUA NEW GUINEA,Bathing,Female,YES,Other sharks,oct
+1966,UNPROVOKED,AUSTRALIA,"Free diving, carrying speargun",Male,NO,Other sharks,sep
+1966,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,sep
+1966,PROVOKED,USA,Hunting crayfish ,Male,NO,Other sharks,sep
+1966,UNPROVOKED,NEW BRITAIN,Swimming,Female,YES,Other sharks,aug
+1966,UNPROVOKED,NEW BRITAIN,Diving into water,Female,YES,Other sharks,aug
+1966,UNPROVOKED,CROATIA,Swimming,Male,YES,White shark,aug
+1966,UNPROVOKED,TAIWAN,Lobster diving using Scuba,Male,NO,Other sharks,aug
+1966,UNPROVOKED,ITALY,Attacked shark with fists,Male,NO,Other sharks,aug
+1966,UNPROVOKED,USA,Diving for sand dollars,Male,NO,Other sharks,jul
+1966,PROVOKED,USA,Killing a shark,Male,NO,Other sharks,jul
+1966,PROVOKED,USA,Clamming,Male,NO,Other sharks,jun
+1966,PROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+1966,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jun
+1966,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,may
+1966,SEA DISASTER,AUSTRALIA,Shipwreck,Male,YES,White shark,may
+1966,UNPROVOKED,AUSTRALIA,Treading water,Male,NO,White shark,feb
+1966,PROVOKED,SOUTH AFRICA,Helping men land a shark,Male,NO,Other sharks,jan
+1966,UNPROVOKED,USA,Free diving / spearfishing (resting on the surface),Male,NO,White shark,jan
+1966,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jan
+1966,UNPROVOKED,SOUTH AFRICA,Standing,Male,NO,Other sharks,jan
+1966,UNPROVOKED,AUSTRALIA,Jumped into the water,Male,NO,Other sharks,jan
+1966,UNPROVOKED,SOUTH AFRICA,Body surfing,Male,NO,Other sharks,jan
+1966,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jan
+1965,UNPROVOKED,AUSTRALIA,"Spearfishing, but standing in knee-deep water",Male,NO,Other sharks,dec
+1965,UNPROVOKED,JOHNSTON ISLAND,Freediving,Male,NO,Other sharks,dec
+1965,PROVOKED,AUSTRALIA,Fishing from 34' boat when pulled overboard by hooked shark,Male,YES,Other sharks,nov
+1965,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,nov
+1965,UNPROVOKED,BAHAMAS,Sunbathing on beach when he saw child being attacked by the shark,Male,NO,Other sharks,oct
+1965,UNPROVOKED,BAHAMAS,Playing in the water,Female,YES,Other sharks,oct
+1965,UNPROVOKED,NEW BRITAIN,"Spearfishing, shot a turtle",Male,YES,Other sharks,oct
+1965,PROVOKED,PAPUA NEW GUINEA,Spearing fish,Male,NO,Other sharks,sep
+1965,PROVOKED,PAPUA NEW GUINEA,Fishing (rod & line),Male,NO,Other sharks,sep
+1965,PROVOKED,BAHAMAS,Attempting to anesthetize shark,Male,NO,Other sharks,jul
+1965,UNPROVOKED,USA,Spearfishing,Male,NO,White shark,apr
+1965,UNPROVOKED,PALAU,Walking on reef,Male,NO,Other sharks,apr
+1965,UNPROVOKED,USA,Paddling on surfboard,Male,NO,Other sharks,apr
+1965,UNPROVOKED,USA,Free diving,Male,NO,Other sharks,mar
+1965,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,feb
+1965,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,feb
+1965,UNPROVOKED,SOUTH AFRICA,Paddling rescue ski,Male,NO,White shark,jan
+1965,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,jan
+1965,UNPROVOKED,NEW GUINEA,Free diving,Male,YES,Other sharks,jan
+1965,UNPROVOKED,,Standing in waist-deep water,Male,NO,White shark,jun
+1965,UNPROVOKED,EGYPT,"Spearfishing, but standing in the water",Male,NO,Other sharks,jun
+1964,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,dec
+1964,UNPROVOKED,PAPUA NEW GUINEA,"Canoe swamped, swimming back to canoe",Male,NO,Other sharks,dec
+1964,UNPROVOKED,AUSTRALIA,Free diving with seals,Male,NO,White shark,nov
+1964,PROVOKED,AUSTRALIA,"Filming underwater, carrying powerhead",Male,NO,White shark,nov
+1964,UNPROVOKED,AUSTRALIA,"Surfing, but swimming to his board",Male,NO,Other sharks,oct
+1964,UNPROVOKED,TAIWAN,Swimming,Male,NO,Other sharks,sep
+1964,UNPROVOKED,MEXICO,Floating on his back in an inner tube,Male,NO,Other sharks,aug
+1964,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,aug
+1964,UNPROVOKED,USA,Spearfishing using scuba,Male,NO,Other sharks,aug
+1964,UNPROVOKED,SOUTH AFRICA,Searching for remains of  Dr. Marais,Male,NO,Other sharks,jul
+1964,PROVOKED,USA,Tagging sharks,Male,NO,White shark,jul
+1964,BOAT,PAPUA NEW GUINEA,Fishing,Male,NO,Other sharks,jun
+1964,UNPROVOKED,PANAMA,Standing,Male,NO,Other sharks,may
+1964,UNPROVOKED,FIJI,Spearfishing,Male,YES,Other sharks,may
+1964,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+1964,UNPROVOKED,USA,Skin diving ,Male,NO,Other sharks,mar
+1964,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,NO,White shark,feb
+1964,UNPROVOKED,SOUTH AFRICA,Body boarding,Male,NO,White shark,feb
+1964,UNPROVOKED,NEW ZEALAND,Lying in 2 feet of water,Male,NO,Other sharks,feb
+1964,UNPROVOKED,NEW ZEALAND,Swimming,Male,YES,White shark,feb
+1964,UNPROVOKED,AUSTRALIA,Freediving,Male,NO,Other sharks,jan
+1964,UNPROVOKED,USA,Spearfishing / Scuba diving (at surface),Male,NO,White shark,jan
+1964,UNPROVOKED,PAPUA NEW GUINEA,Fishing,Male,YES,Other sharks,jan
+1964,UNPROVOKED,SOUTH AFRICA,Diving for sinkers,Male,NO,Other sharks,jan
+1963,UNPROVOKED,SOUTH AFRICA,Standing,Female,NO,Other sharks,dec
+1963,UNPROVOKED,SOUTH AFRICA,Swimming ,Male,NO,Other sharks,dec
+1963,UNPROVOKED,AUSTRALIA,Sitting on gunwale of boat,Male,NO,Other sharks,dec
+1963,PROVOKED,SOUTH AFRICA,Helping friend land hooked shark,Male,NO,Other sharks,dec
+1963,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,dec
+1963,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,dec
+1963,UNPROVOKED,SOUTH AFRICA,Splashing in surf,Male,YES,Other sharks,dec
+1963,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,White shark,dec
+1963,UNPROVOKED,NEW BRITAIN,Spearfishing,Male,YES,Other sharks,dec
+1963,UNPROVOKED,NEW ZEALAND,Treading water while alongside capsized yacht,Male,NO,Other sharks,nov
+1963,PROVOKED,PAPUA NEW GUINEA,Fishing / standing in waist deep water,Female,NO,Other sharks,nov
+1963,UNPROVOKED,FIJI,Fishing,Female,NO,Other sharks,nov
+1963,PROVOKED,AUSTRALIA,Catching sharks under government contract,Male,NO,White shark,nov
+1963,PROVOKED,USA,Testing anti-shark cage,Male,NO,Other sharks,nov
+1963,UNPROVOKED,PAPUA NEW GUINEA,Wading,Male,NO,Other sharks,nov
+1963,UNPROVOKED,PALAU,Fishing,Male,NO,Other sharks,nov
+1963,UNPROVOKED,USA,"Surf fishing, wading ",Male,NO,Other sharks,oct
+1963,UNPROVOKED,CHILE,Spearfishing / free diving,Male,YES,White shark,sep
+1963,UNPROVOKED,SOLOMON ISLANDS,Spearing fish,Male,YES,Other sharks,sep
+1963,PROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,sep
+1963,PROVOKED,USA,"Spearfishing, pulled sharks tail",Male,NO,Other sharks,sep
+1963,UNPROVOKED,FEDERATED STATES OF MICRONESIA,Spearfishing,Male,NO,Other sharks,jul
+1963,PROVOKED,USA,"Fishing, on charter boat Silver Dollar",Male,NO,Other sharks,jul
+1963,UNPROVOKED,GREECE,Swimming,Female,YES,White shark,jun
+1963,PROVOKED,PAPUA NEW GUINEA,Fishing,Male,NO,Other sharks,jun
+1963,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,apr
+1963,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,apr
+1963,UNPROVOKED,AUSTRALIA,"Surfing on ""chest board"" (boogie board?)",Male,NO,Other sharks,apr
+1963,UNPROVOKED,USA,Surfing ,Male,NO,Other sharks,apr
+1963,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,feb
+1963,UNPROVOKED,FIJI,Spearfishing,Male,NO,White shark,feb
+1963,UNPROVOKED,AUSTRALIA,Wading,Female,YES,Other sharks,jan
+1963,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,jan
+1963,UNPROVOKED,SOUTH AFRICA,"Free diving, hunting crayfish",Male,NO,Other sharks,jan
+1963,UNPROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,Other sharks,jan
+1962,PROVOKED,SOUTH AFRICA,Scuba diving,Male,NO,Other sharks,dec
+1962,UNPROVOKED,AUSTRALIA,Spearfishing,Male,YES,White shark,dec
+1962,UNPROVOKED,AUSTRALIA,"Spearfishing, Scuba diving",Male,NO,Other sharks,nov
+1962,UNPROVOKED,USA,Spearfishing / Scuba diving (at surface),Male,NO,White shark,nov
+1962,UNPROVOKED,MEXICO,Wading,Male,YES,Other sharks,oct
+1962,BOAT,AUSTRALIA,Adrift after wave swamped engine,Male,NO,Other sharks,oct
+1962,UNPROVOKED,BRITISH WEST INDIES,Spearfishing,Male,NO,Other sharks,sep
+1962,UNPROVOKED,ITALY,Spearfishing with Scuba gear,Male,YES,White shark,sep
+1962,PROVOKED,PAPUA NEW GUINEA,Fishing,Male,NO,Other sharks,aug
+1962,PROVOKED,USA,Diving for abalone,Male,NO,Other sharks,aug
+1962,UNPROVOKED,USA,Surf fishing in waist-deep water,Male,YES,Other sharks,aug
+1962,UNPROVOKED,USA,Standing,Male,NO,Other sharks,aug
+1962,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jul
+1962,PROVOKED,MADAGASCAR,Finning the shark,Male,NO,Other sharks,jul
+1962,PROVOKED,USA,Fishing for albacore,Male,NO,Other sharks,jul
+1962,UNPROVOKED,USA,Rolled off raft,Male,NO,Other sharks,jun
+1962,UNPROVOKED,PAPUA NEW GUINEA,Washing,Male,YES,Other sharks,jun
+1962,PROVOKED,USA,"Scuba diving, attempting to catch a captive shark",Male,NO,Other sharks,jun
+1962,UNPROVOKED,SOUTH AFRICA,Wading,Male,NO,Other sharks,apr
+1962,UNPROVOKED,PAPUA NEW GUINEA,Swimming,Male,YES,Other sharks,mar
+1962,UNPROVOKED,PAPUA NEW GUINEA,Swimming along a row of nets,Male,NO,Other sharks,feb
+1962,PROVOKED,NEW ZEALAND,Swimming,Male,NO,Other sharks,feb
+1962,UNPROVOKED,AUSTRALIA,Fishing for snappers & cleaning mullet. Put mullet over side of boat to wash it,Male,NO,Other sharks,feb
+1962,UNPROVOKED,SOUTH AFRICA,Treading water,Male,YES,White shark,feb
+1962,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,feb
+1962,UNPROVOKED,NEW ZEALAND,Splashing ,Male,NO,Other sharks,jan
+1962,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,jan
+1962,UNPROVOKED,USA,Spearfishing / Scuba diving (at surface),Male,NO,White shark,jan
+1962,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+1962,UNPROVOKED,PAPUA NEW GUINEA,Spearfishing,Male,NO,White shark,jan
+1962,UNPROVOKED,NEW ZEALAND,Surf fishing,Female,NO,Other sharks,jan
+1962,UNPROVOKED,MARSHALL ISLANDS,Fishing with hand net in 2' of water,Male,NO,Other sharks,jan
+1961,UNPROVOKED,AUSTRALIA,Standing,Female,YES,Other sharks,dec
+1961,UNPROVOKED,AUSTRALIA,Standing,Male,NO,Other sharks,dec
+1961,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,dec
+1961,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+1961,UNPROVOKED,AUSTRALIA,"Surfing, pushing board ashore",Male,YES,Other sharks,dec
+1961,UNPROVOKED,AUSTRALIA,Swimming with other crew near wharf,Male,NO,Other sharks,dec
+1961,UNPROVOKED,CROATIA,Swimming,Male,YES,White shark,sep
+1961,UNPROVOKED,,"Survived US Naval aircraft crash, climbing onboard rescue vessel when he fell back into sea ",Male,NO,White shark,sep
+1961,UNPROVOKED,PERSIAN GULF,"Free diving, surveying a pipeline & examing cathodes under jetty",Male,NO,Other sharks,sep
+1961,PROVOKED,ITALY,Fishing,Male,NO,Other sharks,sep
+1961,UNPROVOKED,USA,Swimming,Male,NO,White shark,aug
+1961,UNPROVOKED,USA,Wading,Male,NO,White shark,aug
+1961,UNPROVOKED,BERMUDA,Spearfishing,Male,NO,Other sharks,aug
+1961,UNPROVOKED,USA,"Net fishing, picking catch from the net",Male,NO,Other sharks,aug
+1961,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,jul
+1961,BOAT,USA,Spearfishing on Scuba,Male,NO,Other sharks,jun
+1961,PROVOKED,PAPUA NEW GUINEA,"Fishing, speared shark upset canoe & man fell in water",Male,NO,Other sharks,jun
+1961,UNPROVOKED,USA,Free diving for abalone,Male,NO,White shark,may
+1961,UNPROVOKED,USA,Walking in chest-deep water,Male,NO,Other sharks,may
+1961,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,apr
+1961,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,apr
+1961,PROVOKED,SOUTH AFRICA,Diving,Male,NO,Other sharks,apr
+1961,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,apr
+1961,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,apr
+1961,UNPROVOKED,AUSTRALIA,"Checking fish traps, fell into the water",Male,NO,Other sharks,apr
+1961,UNPROVOKED,MOZAMBIQUE,"Swimming, using bundles of sticks as raft",Male,YES,Other sharks,apr
+1961,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,apr
+1961,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,mar
+1961,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,mar
+1961,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,White shark,mar
+1961,UNPROVOKED,,Free diving,Male,NO,Other sharks,mar
+1961,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,mar
+1961,UNPROVOKED,AUSTRALIA,Standing,Female,NO,Other sharks,feb
+1961,UNPROVOKED,SOUTH AFRICA,"Spearfishing, shark grabbed his white t-shirt and towed him ",Male,NO,Other sharks,feb
+1961,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,Other sharks,feb
+1961,UNPROVOKED,AUSTRALIA,Collecting crayfish,Male,NO,Other sharks,feb
+1961,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,jan
+1961,PROVOKED,AUSTRALIA,Collecting aquarium specimens,Male,NO,Other sharks,jan
+1961,UNPROVOKED,SOUTH AFRICA,Standing,Male,NO,White shark,jan
+1961,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jan
+1961,UNPROVOKED,MOZAMBIQUE,Swimming,Male,NO,Other sharks,jan
+1961,UNPROVOKED,COLUMBIA,Taking boat from California to Florida when it ran aground & he was swimming back to boat,Male,NO,Other sharks,jan
+1960,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,dec
+1960,UNPROVOKED,AUSTRALIA,"Fishing, when line became snagged on rock & he dived into water to free it ",Male,NO,Other sharks,dec
+1960,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,dec
+1960,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,nov
+1960,UNPROVOKED,AUSTRALIA,"Spearfishing, speared fish retreated to cave where shark grabbed his arm",Male,NO,Other sharks,nov
+1960,PROVOKED,USA,Fishing inside net,Male,NO,Other sharks,sep
+1960,PROVOKED,USA,Holding shark on leader & dangling it above the water,Male,NO,Other sharks,aug
+1960,PROVOKED,ENGLAND,Helping angler land a shark,Male,NO,Other sharks,aug
+1960,UNPROVOKED,USA,"Fishing, Struck by another shark when removing shark from line",Male,NO,Other sharks,aug
+1960,PROVOKED,USA,"Fishing, tossing netted shark onboard",Male,NO,Other sharks,jul
+1960,PROVOKED,USA,Surf fishing,Male,NO,Other sharks,jun
+1960,PROVOKED,,Fishing,Male,NO,Other sharks,jun
+1960,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,jun
+1960,UNPROVOKED,BERMUDA,Free diving but treading water at surface,Male,NO,Other sharks,may
+1960,UNPROVOKED,USA,Swimming ,Female,NO,White shark,may
+1960,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,White shark,apr
+1960,UNPROVOKED,USA,Skindiving for abalone (but at surface),Male,NO,White shark,apr
+1960,PROVOKED,AUSTRALIA,"Fishing, hauling in a set line",Male,NO,Other sharks,apr
+1960,PROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,apr
+1960,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,White shark,apr
+1960,PROVOKED,AUSTRALIA,"Spearfishing, shot a sandtiger shark. Cord to spear tangled round his legs & a wave washed him onto a reef.",Male,NO,Other sharks,apr
+1960,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,apr
+1960,UNPROVOKED,AUSTRALIA,"Speared a grouper, saw shark but it came for him instead of the fish so he fired spear into sharks mouth. Then shark took grouper but unable to swallow because of the spear in its mouth.",Male,NO,Other sharks,apr
+1960,UNPROVOKED,USA,Treading water,Male,NO,Other sharks,mar
+1960,UNPROVOKED,GUAM,"Spearfishing, carrying fish on belt",Male,NO,Other sharks,mar
+1960,UNPROVOKED,AUSTRALIA,"Wading, fishing for flounder",Male,NO,Other sharks,feb
+1960,UNPROVOKED,NEW ZEALAND,Spearfishing,Male,NO,Other sharks,feb
+1960,UNPROVOKED,PAPUA NEW GUINEA,Spearfishing,Male,YES,Other sharks,feb
+1960,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,feb
+1960,UNPROVOKED,AUSTRALIA,Free diving,Male,YES,Other sharks,jan
+1960,PROVOKED,AUSTRALIA,"Fishing, lifting shark out of craypot",Male,NO,Other sharks,jan
+1959,PROVOKED,AUSTRALIA,"Spearfishing, Smith  & Walker touched shark with tip of their guns",Male,NO,Other sharks,dec
+1959,BOAT,NEW ZEALAND,Fishing for snapper,Male,NO,Other sharks,dec
+1959,UNPROVOKED,AUSTRALIA,Body surfing,Male,NO,Other sharks,nov
+1959,UNPROVOKED,AUSTRALIA,Standing in chest-deep water,Male,NO,Other sharks,nov
+1959,UNPROVOKED,AUSTRALIA,Trailing the field in a surf race,Male,NO,Other sharks,nov
+1959,UNPROVOKED,USA,Swimming at surface through school of feeding 2.5' to 5 sharks,Male,NO,Other sharks,nov
+1959,PROVOKED,AUSTRALIA,"Spearfishing, shot shark, hauled it onto boat",Male,NO,Other sharks,nov
+1959,UNPROVOKED,USA,Diving for abalone,Male,NO,White shark,oct
+1959,UNPROVOKED,FIJI,Dived overboard to retrieve dinghy,Male,YES,Other sharks,oct
+1959,SEA DISASTER,USA,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",Male,NO,Other sharks,sep
+1959,UNPROVOKED,USA,Spearfishing on Scuba,Male,YES,Other sharks,aug
+1959,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+1959,PROVOKED,USA,"Spearfishing with Joe Turner (24). Shark attracted to speared halibut on belt of one diver, tried to bite Ides speargun & he shot it in the mouth",Male,NO,Other sharks,aug
+1959,PROVOKED,CROATIA,Fishing,Male,NO,Other sharks,aug
+1959,UNPROVOKED,JAPAN,Swimming,Male,YES,Other sharks,aug
+1959,UNPROVOKED,USA,Spearfishing (but on surface),Male,NO,Other sharks,jul
+1959,PROVOKED,USA,Dragging stranded shark ashore,Male,NO,Other sharks,jul
+1959,PROVOKED,USA,Free diving,Male,NO,Other sharks,jul
+1959,UNPROVOKED,USA,Free diving for abalone,Male,YES,White shark,jun
+1959,PROVOKED,SOUTH AFRICA,Spearfishing,Male,NO,White shark,may
+1959,UNPROVOKED,USA,Treading water,Male,YES,White shark,may
+1959,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,may
+1959,UNPROVOKED,AUSTRALIA,Diving for pearl shell,Male,NO,Other sharks,apr
+1959,BOAT,AUSTRALIA,Fishing for snapper,Male,NO,Other sharks,feb
+1959,PROVOKED,PAPUA NEW GUINEA,Fishing,Male,NO,Other sharks,feb
+1959,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,feb
+1959,UNPROVOKED,AUSTRALIA,Working prawn net,Male,NO,Other sharks,jan
+1959,UNPROVOKED,ECUADOR,Washed overboard into school of fish,Male,NO,Other sharks,jan
+1959,UNPROVOKED,AUSTRALIA,In deep water about 100 yards from his ship,Male,YES,Other sharks,jan
+1959,UNPROVOKED,AUSTRALIA,"Surfing, but treading water",Male,NO,Other sharks,jan
+1959,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,jan
+1959,UNPROVOKED,NEW GUINEA,Dragging banana seeds through the shallows,Male,NO,Other sharks,jan
+1958,UNPROVOKED,USA,Surfing on air mattress,Male,YES,Other sharks,dec
+1958,UNPROVOKED,AMERICAN SAMOA,Cleaning hull of ship ,Male,YES,Other sharks,dec
+1958,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,nov
+1958,UNPROVOKED,ANDAMAN / NICOBAR ISLANDAS,"""Climbing up to ship after repairing the stern in water""",Male,YES,Other sharks,sep
+1958,UNPROVOKED,BAHAMAS,Fishing,Male,NO,Other sharks,sep
+1958,UNPROVOKED,CROATIA,Swimming,Female,NO,Other sharks,aug
+1958,UNPROVOKED,USA,"Swimming, ducking for shells in water 0.9 m deep",Male,NO,Other sharks,jul
+1958,UNPROVOKED,USA,"Swimming, ducking for shells in water 0.9 m deep",Male,NO,Other sharks,jul
+1958,SEA DISASTER,,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,Male,YES,Other sharks,jul
+1958,SEA DISASTER,,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,Male,NO,Other sharks,jul
+1958,PROVOKED,USA,Free diving,Male,NO,Other sharks,jul
+1958,PROVOKED,USA,Wading,Male,NO,Other sharks,jun
+1958,UNPROVOKED,USA,Walking,Male,NO,Other sharks,jun
+1958,PROVOKED,USA,"Swimming, towing the shark",Male,NO,Other sharks,jun
+1958,PROVOKED,USA,Free diving,Male,NO,Other sharks,apr
+1958,UNPROVOKED,TAIWAN,Diving,Male,NO,Other sharks,apr
+1958,UNPROVOKED,SOUTH AFRICA,Paddling in knee-deep water,Female,YES,Other sharks,apr
+1958,UNPROVOKED,SOUTH AFRICA,Swimming with goggles,Male,YES,Other sharks,apr
+1958,PROVOKED,USA,Spearfishing on Scuba,Male,NO,Other sharks,feb
+1958,UNPROVOKED,AUSTRALIA,Body surfing,Male,NO,Other sharks,jan
+1958,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,jan
+1957,UNPROVOKED,SOUTH AFRICA,Standing,Female,NO,Other sharks,dec
+1957,UNPROVOKED,SOUTH AFRICA,Floating,Male,YES,Other sharks,dec
+1957,PROVOKED,USA,Spearfishing on Scuba,Male,NO,White shark,jul
+1957,UNPROVOKED,USA,Swimming,Male,YES,White shark,jul
+1957,UNPROVOKED,AUSTRALIA,Diving for trochus,Male,NO,Other sharks,jul
+1957,UNPROVOKED,AUSTRALIA,Competing in spearfishing championship & towing dead fish,Male,NO,Other sharks,may
+1957,UNPROVOKED,USA,Swimming,Male,YES,White shark,apr
+1957,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,apr
+1957,PROVOKED,USA,Standing,Male,NO,Other sharks,apr
+1957,UNPROVOKED,AUSTRALIA,Swimming between  anchored  pearling luggers,Male,NO,Other sharks,apr
+1957,UNPROVOKED,USA,Floating,Male,NO,Other sharks,feb
+1956,UNPROVOKED,PAPUA NEW GUINEA,Spearfishing,Male,YES,Other sharks,dec
+1956,PROVOKED,NEW ZEALAND,Fishing,Male,NO,Other sharks,dec
+1956,UNPROVOKED,SOUTH AFRICA,Free diving for sinkers,Male,NO,White shark,oct
+1956,UNPROVOKED,PAPUA NEW GUINEA,"Spearfishing, holding 5' speared fish",Male,NO,Other sharks,oct
+1956,UNPROVOKED,SENEGAL,"Skindiving, fish at belt",Male,NO,Other sharks,oct
+1956,UNPROVOKED,USA,Surf fishing,Male,NO,Other sharks,sep
+1956,UNPROVOKED,PAPUA NEW GUINEA,Fishing ,Male,YES,Other sharks,aug
+1956,PROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,aug
+1956,UNPROVOKED,USA,Swimming near pier,Male,NO,White shark,aug
+1956,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1956,UNPROVOKED,MALTA,Swimming,Male,YES,White shark,jul
+1956,UNPROVOKED,AUSTRALIA,"Line fishing from Lakotoi, saw shoal of fish, dived overboard, had speared second fish & surfaced for air",Male,NO,Other sharks,jun
+1956,UNPROVOKED,AUSTRALIA,"Swimming, attacked at  surf carnival",Male,YES,Other sharks,mar
+1956,UNPROVOKED,AUSTRALIA,Diving into water,Male,YES,Other sharks,feb
+1956,UNPROVOKED,AUSTRALIA,Surf skiing,Male,NO,Other sharks,jan
+1955,UNPROVOKED,PAPUA NEW GUINEA,Swimming,Male,NO,Other sharks,nov
+1955,PROVOKED,AUSTRALIA,Spearfishing & lassoed shark,Male,NO,Other sharks,oct
+1955,SEA DISASTER,,"""Flying Tiger"" transport plane went down with 5 men onboard",Male,YES,White shark,sep
+1955,SEA DISASTER,,"""Flying Tiger"" transport plane went down with 5 men onboard",Male,NO,White shark,sep
+1955,PROVOKED,USA,Surfing,Male,NO,Other sharks,aug
+1955,UNPROVOKED,CROATIA,Swimming,Female,YES,White shark,aug
+1955,UNPROVOKED,AMERICAN SAMOA,Swimming,Male,YES,Other sharks,aug
+1955,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+1955,UNPROVOKED,USA,Wading,Male,NO,Other sharks,jun
+1955,UNPROVOKED,MONTENEGRO,Swimming,Male,YES,White shark,jul
+1955,UNPROVOKED,YEMEN,Swimming,Female,YES,Other sharks,jul
+1955,PROVOKED,USA,Spearfishing,Male,NO,Other sharks,may
+1955,UNPROVOKED,PAPUA NEW GUINEA,Spearfishing or fishing,Male,NO,Other sharks,apr
+1955,UNPROVOKED,PAPUA NEW GUINEA,Spearfishing,Male,NO,Other sharks,apr
+1955,UNPROVOKED,USA,Scuba diving,Male,NO,Other sharks,feb
+1955,UNPROVOKED,USA,Spearfishing,Male,NO,White shark,feb
+1955,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,White shark,feb
+1955,UNPROVOKED,AUSTRALIA,Hunting lobsters in 2.4 m of water,Male,YES,Other sharks,jan
+1954,UNPROVOKED,USA,Spearfishing,Male,NO,Other sharks,nov
+1954,PROVOKED,UNITED KINGDOM,Fishing  (trawling),Male,NO,Other sharks,oct
+1954,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,sep
+1954,UNPROVOKED,AUSTRALIA,"Spearfishing, hunting crayfish",Male,YES,Other sharks,sep
+1954,PROVOKED,CUBA,Spearfishing,Male,NO,Other sharks,aug
+1954,PROVOKED,CUBA,Spearfishing,Male,NO,Other sharks,aug
+1954,UNPROVOKED,BERMUDA,Swimming,Male,NO,Other sharks,jul
+1954,UNPROVOKED,AUSTRALIA,Pearl diving from lugger Whyalla,Male,NO,Other sharks,jun
+1954,UNPROVOKED,ARGENTINA,Floating,Male,NO,White shark,jan
+1954,UNPROVOKED,PAPUA NEW GUINEA,Crouching in the water,Male,NO,Other sharks,jan
+1953,UNPROVOKED,SOUTH AFRICA,Swimming,Female,NO,Other sharks,dec
+1953,UNPROVOKED,USA,Surf fishing,Male,NO,Other sharks,sep
+1953,UNPROVOKED,USA,Crabbing,Male,NO,Other sharks,sep
+1953,UNPROVOKED,USA,Spearfishing,Male,YES,Other sharks,jul
+1953,BOAT,CANADA,Fishing for lobsters,Male,NO,White shark,jul
+1953,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,mar
+1953,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,feb
+1952,UNPROVOKED,AUSTRALIA,"Fishing, setting nets",Male,NO,Other sharks,dec
+1952,PROVOKED,ITALY,Fishing,Male,NO,Other sharks,aug
+1952,UNPROVOKED,USA,Body surfing & treading water,Male,YES,White shark,dec
+1952,UNPROVOKED,USA,Swimming from fishing boat setting nets,Male,YES,Other sharks,dec
+1952,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1952,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1952,UNPROVOKED,USA,"Spearfishing, carrying fish on spear",Male,NO,Other sharks,jul
+1952,UNPROVOKED,USA,Swimming on surface,Male,NO,White shark,may
+1952,UNPROVOKED,AUSTRALIA,"Fishing, standing in water washing fish",Male,NO,Other sharks,may
+1952,UNPROVOKED,NETHERLANDS ANTILLES,Went to aid of child being menaced by the shark,Male,NO,Other sharks,mar
+1952,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,jan
+1951,PROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,dec
+1951,UNPROVOKED,AUSTRALIA,Treading water,Male,YES,Other sharks,dec
+1951,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,nov
+1951,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,White shark,nov
+1951,UNPROVOKED,GREECE,Swimming,Male,NO,White shark,aug
+1951,UNPROVOKED,GREECE,Swimming,Female,YES,White shark,aug
+1951,UNPROVOKED,,Fell overboard,Male,NO,Other sharks,jul
+1951,PROVOKED,AUSTRALIA,Fell off surf ski,Male,NO,Other sharks,mar
+1951,UNPROVOKED,AUSTRALIA,"Fishing, casting in the surf",Male,NO,Other sharks,mar
+1951,UNPROVOKED,SOUTH AFRICA,Body surfing,Male,NO,Other sharks,feb
+1951,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,feb
+1950,UNPROVOKED,AUSTRALIA,Paddling a surfboat,Male,NO,Other sharks,dec
+1950,PROVOKED,AUSTRALIA,Diving ,Male,NO,Other sharks,nov
+1950,UNPROVOKED,AUSTRALIA,Body surfing,Male,NO,White shark,nov
+1950,BOAT,AUSTRALIA,Paddling a canoe,Male,NO,Other sharks,nov
+1950,UNPROVOKED,USA,Body surfing / treading water,Male,NO,White shark,oct
+1950,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,oct
+1950,PROVOKED,EL SALVADOR,Jerked overboard while pole fishing for tuna,Male,NO,Other sharks,aug
+1950,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+1950,UNPROVOKED,USA,Swimming ,Male,NO,Other sharks,jun
+1950,BOAT,ITALY,Fishing on a boat,Male,NO,White shark,may
+1950,UNPROVOKED,SOUTH AFRICA,"Fishing, sitting in stern of small boat, feet dangling in the water",Male,NO,Other sharks,apr
+1950,UNPROVOKED,SOUTH AFRICA,Wading,Male,NO,Other sharks,mar
+1950,UNPROVOKED,AUSTRALIA,Spearfishing,Male,NO,Other sharks,feb
+1950,UNPROVOKED,SOUTH AFRICA,Body surfing,Male,YES,White shark,feb
+1949,UNPROVOKED,AUSTRALIA,Free diving or wading back to shore,Male,NO,Other sharks,nov
+1949,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1949,UNPROVOKED,AUSTRALIA,Bathing,Female,NO,Other sharks,may
+1949,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,apr
+1949,UNPROVOKED,AUSTRALIA,Bathing in water 0.9 m deep,Male,YES,Other sharks,apr
+1949,UNPROVOKED,AUSTRALIA,Lifesaving exhibition,Male,YES,White shark,jan
+1948,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,dec
+1948,UNPROVOKED,GREECE,Swimming,Male,YES,Other sharks,sep
+1948,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,feb
+1948,UNPROVOKED,AUSTRALIA,Surf skiing,Male,NO,Other sharks,jan
+1947,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,dec
+1947,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,aug
+1947,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1947,UNPROVOKED,AUSTRALIA,Diving,Male,NO,Other sharks,jul
+1947,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,apr
+1947,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,mar
+1947,PROVOKED,BAHAMAS,Attempting to ride a shark,Male,NO,Other sharks,feb
+1947,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,jan
+1946,UNPROVOKED,AUSTRALIA,Swimming after a tennis ball,Male,YES,Other sharks,aug
+1946,UNPROVOKED,IRAN,Swimming ,Male,NO,Other sharks,jul
+1946,UNPROVOKED,AUSTRALIA,Standing,Male,NO,White shark,feb
+1946,UNPROVOKED,SOUTH AFRICA,Jumping in swells,Male,NO,Other sharks,jan
+1945,UNPROVOKED,SOUTH AFRICA,Walking,Male,NO,Other sharks,mar
+1944,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,jul
+1944,UNPROVOKED,USA,Bathing,Female,NO,Other sharks,may
+1944,UNPROVOKED,PANAMA,Washed overboard by swell,Male,YES,White shark,may
+1944,UNPROVOKED,SOUTH AFRICA,Treading water,Male,NO,Other sharks,feb
+1944,BOAT,AUSTRALIA,Fishing,Male,NO,Other sharks,jan
+1943,UNPROVOKED,PANAMA,Dived overboard to check propeller of US Navy motor torpedo boat,Male,YES,White shark,sep
+1943,BOAT,AUSTRALIA,Fishing for cod,Male,NO,White shark,jun
+1943,SEA DISASTER,,ship torpedoed 400 miles off the African coas. Man was clinging to hatch cover,Male,NO,Other sharks,may
+1942,UNPROVOKED,AUSTRALIA,Dog paddling or standing,Female,YES,Other sharks,dec
+1942,SEA DISASTER,SOUTH AFRICA,U-177 torpedoed & sank the troopship Nova Scotia,Male,YES,White shark,nov
+1942,UNPROVOKED,SOUTH AFRICA,Swimming ,Male,YES,White shark,nov
+1942,UNPROVOKED,AUSTRALIA,Treading water,Male,NO,Other sharks,sep
+1942,SEA DISASTER,,Adrift on life raft,Male,YES,Other sharks,sep
+1942,PROVOKED,ITALY,Sculling,Male,NO,Other sharks,jul
+1942,UNPROVOKED,AUSTRALIA,Swimming,Female,YES,Other sharks,jan
+1941,SEA DISASTER,,HMAS Parramatta torpedoed & sunk by the U-559,Male,NO,Other sharks,nov
+1941,SEA DISASTER,,HMAS Parramatta torpedoed & sunk by the U-559,Male,NO,Other sharks,nov
+1941,PROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1941,PROVOKED,USA,Fishing from 32' boat,Male,NO,Other sharks,jun
+1941,PROVOKED,USA,Fishing,Male,NO,Other sharks,mar
+1940,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+1940,UNPROVOKED,SOUTH AFRICA,Treading water,Male,YES,White shark,mar
+1940,UNPROVOKED,AUSTRALIA,Free diving for lobster,Male,NO,Other sharks,mar
+1940,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,feb
+1940,UNPROVOKED,AUSTRALIA,Dived into the water,Male,NO,Other sharks,jan
+1940,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,jan
+1940,UNPROVOKED,SOUTH AFRICA,Swimming ,Male,YES,Other sharks,jan
+1939,UNPROVOKED,AUSTRALIA,Swimming ,Male,YES,Other sharks,dec
+1939,UNPROVOKED,AUSTRALIA,"Free diving for trochus shell, swimming to dinghy",Male,NO,Other sharks,oct
+1939,UNPROVOKED,USA,Spearfishing & had just speared a ulua,Male,NO,Other sharks,oct
+1939,UNPROVOKED,AUSTRALIA,Pearl diving,Male,NO,Other sharks,sep
+1939,PROVOKED,BAHAMAS,"Dress diving, filming shark & pulling it through the water for a motion picture scene",Male,NO,Other sharks,jul
+1939,PROVOKED,USA,Seine netting,Male,NO,Other sharks,jul
+1939,UNPROVOKED,PAPUA NEW GUINEA,Dived for a coin,Male,YES,Other sharks,mar
+1939,PROVOKED,NEW ZEALAND,Fishing,Male,NO,Other sharks,feb
+1939,UNPROVOKED,AUSTRALIA,Scooping prawns,Male,NO,Other sharks,jan
+1938,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,oct
+1938,UNPROVOKED,AUSTRALIA,Hardhat diving,Male,NO,Other sharks,jun
+1938,UNPROVOKED,IRAQ,"Swimming, naked",Male,NO,Other sharks,may
+1938,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jan
+1937,UNPROVOKED,AUSTRALIA,Diving for trochus,Male,YES,Other sharks,nov
+1937,UNPROVOKED,AUSTRALIA,Swimming ,Male,YES,Other sharks,oct
+1937,UNPROVOKED,AUSTRALIA,Swimming ,Male,YES,Other sharks,oct
+1937,UNPROVOKED,AUSTRALIA,Swimming near jetty,Male,NO,Other sharks,oct
+1937,UNPROVOKED,AUSTRALIA,Surf skiing,Male,NO,Other sharks,oct
+1937,UNPROVOKED,SCOTLAND,Rowing,Male,NO,Other sharks,sep
+1937,UNPROVOKED,AUSTRALIA,"Diving from the lugger San, operated by the Protector of the Aborigines",Male,NO,Other sharks,aug
+1937,PROVOKED,AUSTRALIA,"Fishing from launch, fell into net with shark",Male,NO,Other sharks,jun
+1937,PROVOKED,USA,Fishing,Male,NO,Other sharks,may
+1937,UNPROVOKED,AUSTRALIA,"Refused permission to cross on the ferry, he was swimming across the river",Male,YES,Other sharks,may
+1937,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,White shark,feb
+1937,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,feb
+1937,PROVOKED,AUSTRALIA,Holding shark's tail ,Male,NO,Other sharks,jan
+1936,UNPROVOKED,USA,"Diving, attempting to retrieve body of drowning victim wedged between rocks",Male,NO,Other sharks,dec
+1936,BOAT,AUSTRALIA,Fishing,Male,YES,White shark,dec
+1936,PROVOKED,AUSTRALIA,Spearfishing ,Male,NO,Other sharks,nov
+1936,UNPROVOKED,AUSTRALIA,"Trochus diving, but floating on surface",Male,NO,Other sharks,aug
+1936,UNPROVOKED,USA,Swimming crawl stroke,Male,YES,White shark,jul
+1936,UNPROVOKED,AUSTRALIA,"Diving for trochus , but swimming on surface",Male,YES,Other sharks,jun
+1936,UNPROVOKED,AUSTRALIA,Diving for trochus,Male,NO,Other sharks,apr
+1936,PROVOKED,USA,Fishing,Male,NO,Other sharks,mar
+1936,UNPROVOKED,AUSTRALIA,Sculling,Male,NO,Other sharks,feb
+1936,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,White shark,feb
+1936,UNPROVOKED,AUSTRALIA,"Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",Male,YES,White shark,jan
+1935,UNPROVOKED,AUSTRALIA,"Fell overboard, hanging onto lifebuoy",Male,YES,Other sharks,aug
+1935,UNPROVOKED,USA,"Fishing for bluefish, shark leapt into dory",Male,NO,Other sharks,jun
+1935,PROVOKED,SOUTH AFRICA,Put foot inside a landed & supposedly dead shark,Male,NO,White shark,may
+1935,UNPROVOKED,AUSTRALIA,Pearl diving,Male,NO,Other sharks,may
+1935,UNPROVOKED,AUSTRALIA,"Pearl diving, but standing in the water",Male,NO,Other sharks,mar
+1935,PROVOKED,AUSTRALIA,Hauling in net with shark in it,Male,NO,Other sharks,mar
+1935,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,White shark,mar
+1935,UNPROVOKED,AUSTRALIA,Standing,Male,YES,White shark,mar
+1935,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jan
+1934,UNPROVOKED,AUSTRALIA,Splashing,Female,NO,Other sharks,dec
+1934,PROVOKED,BERMUDA,Fishing,Male,NO,Other sharks,sep
+1934,BOAT,ITALY,Fishing on a boat,Male,NO,White shark,aug
+1934,UNPROVOKED,CROATIA,Swimming,Female,YES,White shark,aug
+1934,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,jun
+1934,UNPROVOKED,AUSTRALIA,Swimming in waist-deep water ,Male,YES,Other sharks,apr
+1934,UNPROVOKED,AUSTRALIA,Swimming in hip-deep water,Male,YES,Other sharks,mar
+1934,UNPROVOKED,AUSTRALIA,Splashing in water ,Male,NO,Other sharks,feb
+1934,UNPROVOKED,AUSTRALIA,Swimming on sandbar adjacent to channel,Male,NO,Other sharks,jan
+1933,UNPROVOKED,AUSTRALIA,Free diving for trochus ,Male,YES,Other sharks,nov
+1933,UNPROVOKED,AUSTRALIA,Pearl diving,Male,NO,Other sharks,nov
+1933,BOAT,ISRAEL,Fishing,Male,NO,Other sharks,sep
+1933,PROVOKED,USA,"Fishing, caught a 15' shark & took it onboard",Male,NO,Other sharks,aug
+1933,UNPROVOKED,USA,Sitting in 3' of water,Male,NO,Other sharks,jun
+1933,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,may
+1933,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,apr
+1933,UNPROVOKED,AUSTRALIA,Standing on his hands,Male,NO,Other sharks,feb
+1933,UNPROVOKED,AUSTRALIA,Diving for trochus  from dinghy when seized by shark 6' below the surface,Male,NO,Other sharks,feb
+1933,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,feb
+1932,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,oct
+1932,PROVOKED,USA,Fishing,Male,NO,Other sharks,aug
+1932,BOAT,CANADA,"Fishing, hauling in fishing gear",Male,NO,White shark,jul
+1932,PROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+1932,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,jan
+1931,UNPROVOKED,AUSTRALIA,Diving for trochus from lugger,Male,NO,Other sharks,nov
+1931,UNPROVOKED,USA,Swimming ,Female,NO,Other sharks,sep
+1931,UNPROVOKED,FIJI,Swimming,Male,NO,Other sharks,jul
+1931,PROVOKED,USA,Gaffing & attempting to bring onboard a harpooned shark,Male,NO,Other sharks,jun
+1931,UNPROVOKED,USA,Crabbing,Male,NO,Other sharks,jun
+1931,PROVOKED,AUSTRALIA,"Fishing, hauling in net, shark in net",Male,NO,Other sharks,mar
+1931,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,jan
+1930,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+1930,UNPROVOKED,AUSTRALIA,Diving off pier & treading water,Male,YES,White shark,feb
+1930,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,jan
+1929,UNPROVOKED,AUSTRALIA,Diving by wharf,Male,YES,Other sharks,dec
+1929,UNPROVOKED,AUSTRALIA,Bathing or body surfing ,Female,NO,Other sharks,dec
+1929,PROVOKED,USA,Fishing,Male,NO,Other sharks,jun
+1929,PROVOKED,AUSTRALIA,Standing in knee-deep water,Male,NO,Other sharks,apr
+1929,UNPROVOKED,AUSTRALIA,Launching rowboat through the surf,Male,NO,Other sharks,mar
+1929,UNPROVOKED,AUSTRALIA,Launching rowboat through the surf,Male,NO,Other sharks,mar
+1929,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,feb
+1929,UNPROVOKED,AUSTRALIA,Body surfing,Male,YES,Other sharks,jan
+1928,PROVOKED,USA,Fishing,Male,NO,Other sharks,nov
+1928,UNPROVOKED,PANAMA,Swimming,Male,YES,Other sharks,nov
+1928,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,apr
+1928,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,apr
+1927,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,dec
+1927,UNPROVOKED,AUSTRALIA,Body surfing / treading water,Male,NO,Other sharks,mar
+1927,UNPROVOKED,SOUTH AFRICA,Body surfing,Male,NO,Other sharks,jan
+1927,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,jan
+1926,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,oct
+1926,UNPROVOKED,ITALY,Swimming,Male,YES,White shark,jul
+1926,BOAT,USA,Fishing,Male,NO,Other sharks,jul
+1926,UNPROVOKED,USA,Swimming with dog near canning factory,Male,NO,White shark,jul
+1926,UNPROVOKED,USA,Swimming,Male,YES,White shark,may
+1926,UNPROVOKED,USA,Swimming,Female,NO,Other sharks,apr
+1926,UNPROVOKED,AUSTRALIA,Swimming ,Female,YES,White shark,mar
+1926,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,Other sharks,jan
+1925,UNPROVOKED,AUSTRALIA,Floating on his back,Male,YES,Other sharks,nov
+1925,UNPROVOKED,AUSTRALIA,Bathing in waist-deep water,Male,NO,Other sharks,mar
+1925,UNPROVOKED,CANADA,"Diving, repairing water main at depth of 90'",Male,NO,Other sharks,jan
+1924,UNPROVOKED,MEXICO,The Ward liner Esperanza stranded during a gale & she leapt overboard to rescue her dog which had been swept overboard.,Female,YES,Other sharks,nov
+1924,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,oct
+1924,UNPROVOKED,USA,Standing,Male,NO,Other sharks,jul
+1924,PROVOKED,ENGLAND,Fishing for mackerel,Male,NO,Other sharks,jul
+1924,UNPROVOKED,AUSTRALIA,Had just dived into water & was swimming,Male,YES,Other sharks,jan
+1922,UNPROVOKED,AUSTRALIA,Bathing in 3' to 4' of water,Male,YES,Other sharks,dec
+1922,UNPROVOKED,USA,Floating,Female,YES,Other sharks,jun
+1922,UNPROVOKED,SOUTH AFRICA,Swimming,Male,NO,White shark,may
+1922,UNPROVOKED,JAMAICA,Standing,Female,YES,Other sharks,mar
+1922,UNPROVOKED,AUSTRALIA,Bathing in knee-deep water,Male,YES,White shark,mar
+1922,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,White shark,feb
+1922,UNPROVOKED,AUSTRALIA,Standing,Male,NO,Other sharks,jan
+1920,UNPROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,nov
+1921,UNPROVOKED,HAITI,Dived into a school of baitfish,Male,YES,Other sharks,aug
+1920,UNPROVOKED,AUSTRALIA,Standing,Male,NO,Other sharks,nov
+1919,UNPROVOKED,USA,Knocked into the water,Male,YES,Other sharks,apr
+1919,UNPROVOKED,AUSTRALIA,Swimming,Male,NO,Other sharks,jan
+1919,UNPROVOKED,AUSTRALIA,Wading,Male,YES,Other sharks,jan
+1918,UNPROVOKED,AUSTRALIA,Surfing,Male,NO,Other sharks,mar
+1917,PROVOKED,USA,Stuffing a shark into an automobile,Male,NO,Other sharks,sep
+1916,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+1916,UNPROVOKED,USA,Swimming (recovering remains of Stilwell) ,Male,YES,Other sharks,jul
+1916,UNPROVOKED,USA,Swimming,Male,YES,White shark,jul
+1916,UNPROVOKED,USA,Swimming,Male,YES,White shark,jul
+1915,UNPROVOKED,AUSTRALIA,Skin diving for trepang but at surface next to the boat,Male,NO,Other sharks,mar
+1914,UNPROVOKED,JAMAICA,Fell overboard,Male,YES,Other sharks,sep
+1914,UNPROVOKED,CROATIA,Washing clothes,Female,NO,Other sharks,jul
+1914,PROVOKED,USA,Fishing,Female,NO,Other sharks,may
+1914,UNPROVOKED,AUSTRALIA,Wading,Male,NO,Other sharks,feb
+1912,UNPROVOKED,USA,Swimming,Male,NO,Other sharks,jul
+1912,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,jan
+1911,PROVOKED,USA,Fishing,Male,NO,Other sharks,may
+1910,PROVOKED,,Fishing,Male,NO,Other sharks,nov
+1910,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,nov
+1910,UNPROVOKED,NEW ZEALAND,Swimming,Male,NO,Other sharks,mar
+1910,UNPROVOKED,AUSTRALIA,Surf bathing,Male,NO,Other sharks,feb
+1909,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,dec
+1909,PROVOKED,USA,Seine netting,Male,NO,Other sharks,sep
+1908,UNPROVOKED,AUSTRALIA,Fell from the jetty,Male,YES,Other sharks,sep
+1908,UNPROVOKED,CROATIA,Boating,Female,YES,White shark,jul
+1907,UNPROVOKED,AUSTRALIA,Bathing,Male,YES,Other sharks,dec
+1907,UNPROVOKED,CHINA,Fishing,Male,NO,Other sharks,oct
+1907,UNPROVOKED,CHINA,Fishing,Male,YES,Other sharks,oct
+1907,UNPROVOKED,MALTA,Fishing,Male,YES,White shark,mar
+1906,UNPROVOKED,USA,Fell overboard,Male,YES,Other sharks,aug
+1906,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,jul
+1906,PROVOKED,AUSTRALIA,Shooting sharks ,Male,NO,Other sharks,apr
+1906,UNPROVOKED,SOUTH AFRICA,Washing horses,Male,YES,Other sharks,jan
+1905,UNPROVOKED,SOUTH AFRICA,Floating or standing,Male,YES,Other sharks,dec
+1905,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,mar
+1903,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,sep
+1901,UNPROVOKED,CYPRUS,Swimming,Male,YES,Other sharks,sep
+1901,UNPROVOKED,SOUTH AFRICA,Swimming,Male,YES,White shark,jul
+1899,PROVOKED,USA,Hunting sharks,Male,YES,Other sharks,aug
+1899,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,aug
+1899,PROVOKED,ITALY,Fishing,Male,NO,Other sharks,jun
+1897,PROVOKED,USA,Fishing,Male,NO,Other sharks,sep
+1894,PROVOKED,USA,Fishing,Male,NO,Other sharks,dec
+1894,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,nov
+1894,UNPROVOKED,FRANCE,Fishing,Male,YES,Other sharks,jul
+1894,UNPROVOKED,MEXICO,Fell from yardarm of British ship Rover,Male,YES,Other sharks,jun
+1892,UNPROVOKED,BAHAMAS,Fell overboard from sponge vessel,Male,YES,Other sharks,apr
+1892,PROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,mar
+1889,UNPROVOKED,USA,Fishing,Male,NO,Other sharks,jul
+1888,UNPROVOKED,NEW ZEALAND,Floating on his back,Male,NO,Other sharks,feb
+1885,UNPROVOKED,SOUTH AFRICA,Fishing,Male,NO,Other sharks,mar
+1884,SEA DISASTER,AUSTRALIA,yachting accident,Male,YES,Other sharks,dec
+1884,UNPROVOKED,AUSTRALIA,Fell overboard,Female,YES,Other sharks,jan
+1883,PROVOKED,GEORGIA,Fishing for sharks,Male,NO,Other sharks,jul
+1882,PROVOKED,NEW ZEALAND,Restraining a beached shark,Male,NO,Other sharks,dec
+1880,UNPROVOKED,AUSTRALIA,Swimming,Male,YES,Other sharks,nov
+1880,BOAT,USA,Sailing,Male,NO,Other sharks,jul
+1879,UNPROVOKED,INDIA,Swimming,Male,YES,Other sharks,dec
+1878,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,nov
+1878,UNPROVOKED,INDONESIA,Swimming,Male,YES,Other sharks,oct
+1878,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,aug
+1877,UNPROVOKED,AUSTRALIA,Fishing,Male,NO,Other sharks,sep
+1877,UNPROVOKED,AUSTRALIA,Swimming,Female,NO,Other sharks,jan
+1874,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,nov
+1874,UNPROVOKED,USA,Bathing,Male,NO,Other sharks,jul
+1874,BOAT,CANADA,Fishing,Male,NO,White shark,apr
+1873,UNPROVOKED,AUSTRALIA,Bathing,Male,NO,Other sharks,jan
+1869,UNPROVOKED,AUSTRALIA,Net fishing,Male,NO,Other sharks,apr
+1868,UNPROVOKED,INDIA,Standing,Male,YES,Other sharks,may
+1864,PROVOKED,FRANCE,Dragging a shark,Male,NO,Other sharks,sep
+1862,UNPROVOKED,SPAIN,Swimming alongside the SS Kearsarge,Male,YES,Other sharks,jul
+1860,UNPROVOKED,BAHAMAS,"In boat being towed by ship, Karnak",Male,YES,Other sharks,mar
+1853,UNPROVOKED,USA,Swimming,Male,YES,Other sharks,jul
+1853,UNPROVOKED,GREECE,Swimming,Male,NO,Other sharks,apr
+1852,SEA DISASTER,SOUTH AFRICA,Wreck of the steamship Birkenhead,Male,YES,White shark,feb
+1852,UNPROVOKED,NEW ZEALAND,Swimming,Male,YES,Other sharks,jan
+1840,UNPROVOKED,USA,Accidentally thrown overboard & treading water while awaiting rescue,Male,YES,Other sharks,jul
+1839,UNPROVOKED,CUBA,Sitting on gunwale of boat,Male,YES,Other sharks,apr
+1834,UNPROVOKED,FRENCH POLYNESIA,Swimming,Female,YES,Other sharks,jul
